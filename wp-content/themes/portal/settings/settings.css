@@ -1,0 +1,168 @@
+#portal_settings {
+	position:fixed;
+	top:150px;
+	width:230px;
+	padding:10px;
+	background:#282828;
+	color:#fff !important;
+	left:-230px;
+	z-index:999;
+}
+#portal_settings h4 {
+	color:#fff !important;
+}
+#portal_settings * {
+	color:#fff;
+}
+#show_hide_settings {
+	position:absolute;
+	right:-40px;
+	top:0;
+	width:40px;
+	font-size:20px;
+	padding:10px 0;
+	background:#282828;
+	color:#fff;
+	text-align:center;
+}
+#show_hide_settings:hover {
+	text-decoration:none !important;
+}
+#portal_settings h4 {
+	font-family:inherit !important;
+	font-size:12px;
+	font-weight:bold;
+	margin:0;
+	padding:0;
+}
+.settings_element {
+	position:relative;
+}
+.settings_element .settings_button {
+	float:left;
+	padding:5px 0;
+	color:#fff;
+	text-align:center;
+	font-family:inherit !important;
+	font-size:12px;
+	font-weight:bold;
+	background:#555;
+	margin-left:10px;
+	margin-bottom:10px;
+}
+.settings_element .settings_button:hover {
+	background:#777;
+	cursor:pointer;
+}
+.settings_element .settings_button:first-child {
+	margin-left:0;
+}
+.settings_element .settings_button.the_full {
+	width:210px;
+	margin-left:0 !important;
+}
+.settings_element .settings_button.the_half {
+	width:100px;
+}
+.settings_element .settings_button.the_third {
+	width:63.33px;
+}
+.settings_element.pick_a_color {
+	height:120px;
+	margin-top:5px;
+}
+.pick_a_color .color_pick {
+	position:absolute;
+	width:45px;
+	height:45px;
+	cursor:pointer;
+}
+.pick_a_color .color_pick.activated {
+	outline:1px solid #ffffff;
+}
+.pick_a_color .color_pick.portal_red {
+	top:0;
+	left:0;
+	background:#c0392b;
+}
+.pick_a_color .color_pick.portal_orange {
+	top:0px;
+	left:55px;
+	background:#e67e22;
+}
+.pick_a_color .color_pick.portal_yellow {
+	top:0;
+	left:110px;
+	background:#dba92c;
+}
+.pick_a_color .color_pick.portal_navy {
+	top:0;
+	left:165px;
+	background:#2c3e50;
+}
+.pick_a_color .color_pick.portal_purple {
+	top:55px;
+	left:0;
+	background:#884a9d;
+}
+.pick_a_color .color_pick.portal_blue {
+	top:55px;
+	left:55px;
+	background:#2ebdff;
+}
+.pick_a_color .color_pick.portal_green {
+	top:55px;
+	left:110px;
+	background:#24ad5f;
+}
+.pick_a_color .color_pick.portal_turquoise {
+	top:55px;
+	left:165px;
+	background:#13a085;
+}
+.pick_a_color .color_pick.portal_tale {
+	top:110px;
+	left:0;
+	background:#029674;
+}
+.pick_a_color .color_pick.portal_sand {
+	top:110px;
+	left:55px;
+	background:#CDD371;
+}
+.pick_a_color .color_pick.portal_army {
+	top:110px;
+	left:110px;
+	background:#91B683;
+}
+.pick_a_color .color_pick.portal_ciklama {
+	top:110px;
+	left:165px;
+	background:#C6113A;
+}
+.pick_a_color .color_pick.portal_lila {
+	top:165px;
+	left:0;
+	background:#B163A3;
+}
+.pick_a_color .color_pick.portal_skin {
+	top:165px;
+	left:55px;
+	background:#F7AF8A;
+}
+.pick_a_color .color_pick.portal_milka {
+	top:165px;
+	left:110px;
+	background:#716AAC;
+}
+.pick_a_color .color_pick.portal_leamon {
+	top:165px;
+	left:165px;
+	background:#D5EC84;
+}
+.settings_button a {
+	color:#fff; !important;
+}
+.settings_button.activated {
+	background:#c0392b !important;
+}

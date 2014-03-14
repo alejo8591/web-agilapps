@@ -1,0 +1,3030 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PortalWP Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-01-23 15:53+0100\n"
+"PO-Revision-Date: 2014-01-24 18:27+0100\n"
+"Last-Translator: nenad mihajlovic <dzeriho@gmail.com>\n"
+"Language-Team:  <dzeriho@gmail.com>\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x\n"
+"X-Poedit-Basepath: ./\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../comments.php:15
+msgid "Comment"
+msgstr "Comentario"
+
+#: ../comments.php:15 ../admin/functions/functions.options.php:37
+msgid "Comments"
+msgstr "Comentarios"
+
+#: ../comments.php:19
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+"Esta entrada está protegida. Introduzca la contraseña para ver los "
+"comentarios."
+
+#: ../comments.php:30
+msgid "&larr; Older Comments"
+msgstr "&larr; Comentarios más antiguos"
+
+#: ../comments.php:33
+msgid "Newer Comments &rarr;"
+msgstr "Comentarios más recientes &rarr;"
+
+#: ../comments.php:44 ../functions.php:1181
+msgid "NAME"
+msgstr "NOMBRE"
+
+#: ../comments.php:46
+msgid "EMAIL"
+msgstr "CORREO ELECTRÓNICO"
+
+#: ../comments.php:48
+msgid "WEB"
+msgstr "SITIO WEB"
+
+#: ../comments.php:50 ../functions.php:1196
+msgid "MESSAGE GOES HERE (MAX 300 CHARS)"
+msgstr "AQUÍ VA EL MENSAJE (MÁX. 300 CARACTERES)"
+
+#: ../comments.php:50
+msgid "Send Us A Message Here"
+msgstr "Envíenos Un Mensaje Aqui"
+
+#: ../comments.php:50
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Deja una respuesta a% s"
+
+#: ../comments.php:50
+msgid "Send"
+msgstr "Enviar"
+
+#: ../content-archive.php:13 ../single.php:27
+msgid "Date"
+msgstr "Fecha"
+
+#: ../content-archive.php:14 ../single.php:29
+msgid "Author"
+msgstr "Autor"
+
+#: ../content-portfolio.php:26
+msgid "View project &rarr;"
+msgstr "Ver proyecto &rarr;"
+
+#: ../functions.php:16
+msgid "Primary Header Menu"
+msgstr "Menú Principal Cabecera"
+
+#: ../functions.php:90
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:164
+msgid "Install Required Plugins"
+msgstr "Instalar Plugins Requeridos"
+
+#: ../functions.php:91
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:165
+msgid "Install Plugins"
+msgstr "Instalar Plugins"
+
+#: ../functions.php:92
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:166
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Instalar PluginL %s"
+
+#: ../functions.php:93
+msgid "Something went wrong with the plugin API."
+msgstr "Algo ha ido mal."
+
+#: ../functions.php:104
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:178
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:490
+msgid "Return to Required Plugins Installer"
+msgstr "Volver a Instalación Plugins Obligatorio"
+
+#: ../functions.php:105
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:179
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1846
+msgid "Plugin activated successfully."
+msgstr "Plugin activado correctamente."
+
+#: ../functions.php:106
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr "Todos los plugins instalados y activados con éxito. %1$s"
+
+#: ../functions.php:308
+msgid "Single Posts Sidebar"
+msgstr "Barra lateral Entrada Individual"
+
+#: ../functions.php:314
+msgid "This sidebar appears on Single Posts."
+msgstr "Esta barra lateral aparece en Entradas Individuales."
+
+#: ../functions.php:318
+msgid "Footer 1"
+msgstr "Pie de Página"
+
+#: ../functions.php:327
+msgid "Footer 2"
+msgstr "Pie de Página"
+
+#: ../functions.php:336
+msgid "Footer 3"
+msgstr "Pie de Página"
+
+#: ../functions.php:345
+msgid "Footer 4"
+msgstr "Pie de Página"
+
+#: ../functions.php:376
+msgid "Theme Options"
+msgstr "Opciones de Tema"
+
+#: ../functions.php:394
+msgid "Article"
+msgstr "Artículo"
+
+#: ../functions.php:400
+msgid "HOME"
+msgstr "INICIO"
+
+#: ../functions.php:422
+msgid "Category"
+msgstr "En la categoría:"
+
+#: ../functions.php:425
+msgid "Month"
+msgstr "mes"
+
+#: ../functions.php:428
+msgid "Year"
+msgstr "Año"
+
+#: ../functions.php:431
+msgid "Day"
+msgstr "día"
+
+#: ../functions.php:436 ../searchform.php:12
+msgid "Search"
+msgstr "Busca"
+
+#: ../functions.php:436
+msgid "posts found"
+msgstr "puestos encontrados"
+
+#: ../functions.php:439
+msgid "Shop"
+msgstr "Tienda"
+
+#: ../functions.php:470
+msgid "404 Page"
+msgstr "Página 404"
+
+#: ../functions.php:541
+msgid "Your comment is awaiting moderation."
+msgstr "Tu comentario está pendiente de moderación."
+
+#: ../functions.php:547
+msgid "Edit"
+msgstr "(Editar)"
+
+#: ../functions.php:559 ../functions.php:571
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: ../functions.php:561 ../functions.php:573
+msgid "(Edit)"
+msgstr "(Editar)"
+
+#: ../functions.php:649
+msgid "Remove page padding"
+msgstr "Quita acolchado de página"
+
+#: ../functions.php:652 ../functions.php:706
+msgid "Set page content width (e.g. 1200)"
+msgstr "Configurar ancho de contenido de la página (por ejemplo 1200)"
+
+#: ../functions.php:662
+msgid "Select featured area content"
+msgstr "Selecciona contenido de área destacada."
+
+#: ../functions.php:666 ../functions.php:761
+msgid "None"
+msgstr "Ninguno"
+
+#: ../functions.php:667
+msgid "Featured image parallax"
+msgstr "Imagen paralaje destacada"
+
+#: ../functions.php:668
+msgid "Featured image parallax with title"
+msgstr "Imagen destacada Paralaje con título"
+
+#: ../functions.php:669
+msgid "Featured image/video on left"
+msgstr "Imagen/video destacado a la izquierda "
+
+#: ../functions.php:670 ../functions.php:763
+msgid "Video"
+msgstr "Vídeo"
+
+#: ../functions.php:671
+msgid "Parallax Video"
+msgstr "Vieo Paralaje"
+
+#: ../functions.php:684
+msgid "Set featured area video embed (MP4)."
+msgstr "Establecer área de vídeo destacado para incrustar (MP4)."
+
+#: ../functions.php:689
+msgid "Set featured area video embed (OGG)."
+msgstr "Establecer área de vídeo destacado para incrustar (OGG)."
+
+#: ../functions.php:694
+msgid "Hide post title"
+msgstr "Ocultar título de la entrada"
+
+#: ../functions.php:697
+msgid "Hide post meta"
+msgstr "Ocultar meta de entrada"
+
+#: ../functions.php:700
+msgid "Hide post tags"
+msgstr "Esconder detalles de entrada"
+
+#: ../functions.php:703
+msgid "Remove padding"
+msgstr "Remover acolchado"
+
+#: ../functions.php:713
+msgid ""
+"Select sidebar to use with this post. You can create additional sidebars in "
+"Appearance > Theme Options"
+msgstr ""
+"Selecciona la barra lateral para usar con esta entrada. Puedes crear barras "
+"laterales adicionales en Apariencia> Opciones del tema"
+
+#: ../functions.php:741
+msgid "Select category for Blog/Portfolio page templates"
+msgstr "Selecciona categoría Blog/Portafolio para plantillas de página "
+
+#: ../functions.php:757
+msgid "Select page gallery template background content"
+msgstr "Selecciona galería de páginas de plantilla de contenido de fondo"
+
+#: ../functions.php:762
+msgid "Featured Image"
+msgstr "Imagen Destacada"
+
+#: ../functions.php:776
+msgid "Override featured image with a video. Enter video URL (MP4)."
+msgstr ""
+"Anular imagen destacada con un video. Introduzca el URL de video (MP4)."
+
+#: ../functions.php:781
+msgid "Override featured image with a video. Enter video URL (OGG)."
+msgstr ""
+"Anular imagen destacada con un video. Introduzca el URL de video (OGG)."
+
+#: ../functions.php:813
+msgid ""
+"Select Revolution Slider template to use one this page. This slider will be "
+"shown just bellow main navigation in full width."
+msgstr ""
+"Seleccionar plantilla de Revolution Slider para usar en esta página. Este "
+"deslizador se muestra justo debajo de navegación principal en anchura "
+"maximal."
+
+#: ../functions.php:916
+msgid "View page number"
+msgstr "Ver el número de la página"
+
+#: ../functions.php:927
+msgid "View earlier posts"
+msgstr "Ver publicaciones anteriores"
+
+#: ../functions.php:927
+msgid "previous posts"
+msgstr "entrada anterior"
+
+#: ../functions.php:928
+msgid "View newer posts"
+msgstr "Ver puestos más nuevos"
+
+#: ../functions.php:928
+msgid "next posts"
+msgstr "siguiente entrada"
+
+#: ../functions.php:982
+msgid "Visit us on twitter.com"
+msgstr "Visítanos en twitter.com"
+
+#: ../functions.php:996
+msgid "Twitter unaviable"
+msgstr "Twitter no disponible"
+
+#: ../functions.php:1004
+msgid "year"
+msgstr "año"
+
+#: ../functions.php:1004
+msgid "years"
+msgstr "años"
+
+#: ../functions.php:1005
+msgid "month"
+msgstr "mes"
+
+#: ../functions.php:1005
+msgid "months"
+msgstr "meses"
+
+#: ../functions.php:1006
+msgid "week"
+msgstr "semana"
+
+#: ../functions.php:1006
+msgid "weeks"
+msgstr "semanas"
+
+#: ../functions.php:1007
+msgid "day"
+msgstr "día"
+
+#: ../functions.php:1007
+msgid "days"
+msgstr "días"
+
+#: ../functions.php:1008
+msgid "hour"
+msgstr "hora"
+
+#: ../functions.php:1008
+msgid "hours"
+msgstr "horas"
+
+#: ../functions.php:1009
+msgid "minute"
+msgstr "minuto"
+
+#: ../functions.php:1009
+msgid "minutes"
+msgstr "minutos"
+
+#: ../functions.php:1010
+msgid "second"
+msgstr "segundo"
+
+#: ../functions.php:1010
+msgid "seconds"
+msgstr "segundos"
+
+#: ../functions.php:1021
+msgid "sometime"
+msgstr "hace"
+
+#: ../functions.php:1030
+msgid "ago"
+msgstr "hace"
+
+#: ../functions.php:1039
+msgid "Show your twitter feeds"
+msgstr "Muestra tus feeds de tweeter"
+
+#: ../functions.php:1050
+msgid "Twitter Feed"
+msgstr "Dirección URL de Twitter"
+
+#: ../functions.php:1075 ../shortcodes.php:69 ../shortcodes.php:128
+msgid "Title"
+msgstr "Título"
+
+#: ../functions.php:1077
+msgid "User"
+msgstr "Usuario"
+
+#: ../functions.php:1079
+msgid "Count"
+msgstr "Cuenta"
+
+#: ../functions.php:1093
+msgid "Please enter your name"
+msgstr "Por favor, entra tu nombre"
+
+#: ../functions.php:1099
+msgid "Please enter your email address"
+msgstr "Por favor introduzca su dirección de correo electrónico"
+
+#: ../functions.php:1102
+msgid "You entered an invalid email address"
+msgstr "Ha introducido una dirección de email inválida"
+
+#: ../functions.php:1111
+msgid "Please enter a message"
+msgstr "Por favor, introduzca un mensaje"
+
+#: ../functions.php:1138
+msgid "Thanks, your email was sent successfully!"
+msgstr "Gracias, su correo electrónico ha sido enviado con éxito!"
+
+#: ../functions.php:1150
+msgid "Sorry, an error occured"
+msgstr "Lo sentimos, ocurrió un error"
+
+#: ../functions.php:1171
+msgid "EMAIL ADDRESS"
+msgstr "DIRECCIÓN DE CORREO ELECTRÓNICO"
+
+#: ../functions.php:1191
+msgid "WEBSITE"
+msgstr "SITIO WEB"
+
+#: ../functions.php:1203
+msgid "Send Email"
+msgstr "Enviar correo"
+
+#: ../functions.php:1483
+#, php-format
+msgid "%s (Invalid)"
+msgstr "%s (No válido)"
+
+#: ../functions.php:1487
+#, php-format
+msgid "%s (Pending)"
+msgstr "%s (Pendiente)"
+
+#: ../functions.php:1528
+msgid "Edit Menu Item"
+msgstr "Editar Elemento del Menú"
+
+#: ../functions.php:1537
+msgid "URL"
+msgstr "Dirección URL"
+
+#: ../functions.php:1544
+msgid "Navigation Label"
+msgstr "Sello de navegación"
+
+#: ../functions.php:1550
+msgid "Title Attribute"
+msgstr "Atributo de Título"
+
+#: ../functions.php:1557
+msgid "Open link in a new window/tab"
+msgstr "Abrir enlace en una nueva ventana/tabulación"
+
+#: ../functions.php:1562
+msgid "CSS Classes (optional)"
+msgstr "Clases CSS (opcional)"
+
+#: ../functions.php:1568
+msgid "Link Relationship (XFN)"
+msgstr "Relaciones de Enlace (XFN)"
+
+#: ../functions.php:1574
+msgid "Description"
+msgstr "Descripción"
+
+#: ../functions.php:1576
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr "La descripción se mostrará en el menú si la tema actual lo admite."
+
+#: ../functions.php:1584
+msgid ""
+"Mega menu container<br/><small>Makes a mega menu container. Choose up to 5 "
+"columns. Add widgets by inserting sidebar or instead use plain menu items.</"
+"small>"
+msgstr ""
+"Contenedor de Mega menú<br/><small>Hace un contenedor de Mega menú. Elige "
+"hasta 5 columnas. Añada widgets insertando la barra lateral o en vez uso los "
+"elementos del menú simples.</small>"
+
+#: ../functions.php:1590
+msgid "Columns"
+msgstr "Columnas"
+
+#: ../functions.php:1602
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: ../functions.php:1628
+#, php-format
+msgid "Original: %s"
+msgstr "Original: %s"
+
+#: ../functions.php:1641
+msgid "Remove"
+msgstr "Remover"
+
+#: ../functions.php:1642
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: ../gallery-template.php:40 ../header.php:160 ../header.php:180
+#: ../header.php:196
+msgid "Your browser does not support the video tag."
+msgstr "Tu navegador no soporta la etiqueta video."
+
+#: ../header.php:75
+msgid "CHAPTERS"
+msgstr "CAPÍTULOS"
+
+#: ../page.php:16 ../smallteam-template.php:59 ../team-template.php:58
+msgid "No posts"
+msgstr "Puestos"
+
+#: ../shortcodes.php:14
+msgid "All"
+msgstr "Todo"
+
+#: ../shortcodes.php:33
+msgid "Tabs"
+msgstr "Tabulaciónes"
+
+#: ../shortcodes.php:39
+msgid "Tab elements"
+msgstr "Elementos de tabulación"
+
+#: ../shortcodes.php:40 ../shortcodes.php:99
+msgid "Elements are sortable"
+msgstr "Elementos se pueden ordenar"
+
+#: ../shortcodes.php:41 ../shortcodes.php:100
+msgid "tab item"
+msgstr "artículo de tabulación"
+
+#: ../shortcodes.php:73 ../shortcodes.php:132
+msgid "Content"
+msgstr "Contenido"
+
+#: ../shortcodes.php:77 ../shortcodes.php:136
+msgid "Active"
+msgstr "Activo"
+
+#: ../shortcodes.php:78 ../shortcodes.php:137
+msgid ""
+"Only one panel can be active at a time, so be sure to uncheck the others for "
+"it to work properly"
+msgstr ""
+"Sólo un panel puede estar activo a la vez, así que asegúrese de desactivar "
+"los otros para que funcione correctamente"
+
+#: ../shortcodes.php:84 ../shortcodes.php:143 ../shortcodes.php:170
+#: ../shortcodes.php:233 ../shortcodes.php:255 ../shortcodes.php:297
+msgid "Bottom margin"
+msgstr "Margen inferior"
+
+#: ../shortcodes.php:92
+msgid "Accordion"
+msgstr "Acordeón"
+
+#: ../shortcodes.php:98
+msgid "Accordion elements"
+msgstr "Elementos de acordeón"
+
+#: ../shortcodes.php:151
+msgid "Progress Bar"
+msgstr "Barra de Progreso"
+
+#: ../shortcodes.php:157
+msgid "Title Text"
+msgstr "Texto de Título"
+
+#: ../shortcodes.php:162
+msgid "Hom much?"
+msgstr "¿Cuánto?"
+
+#: ../shortcodes.php:178
+msgid "Slider"
+msgstr "Deslizador"
+
+#: ../shortcodes.php:184
+msgid "Number of posts"
+msgstr "Número de entradas"
+
+#: ../shortcodes.php:192
+msgid "Select categories. Use CTRL+Click to select multiple categories."
+msgstr ""
+"Selecciona categorías. Utiliza Mayús + clic para seleccionar varias "
+"categorías."
+
+#: ../shortcodes.php:201
+msgid "Excerpt lenght"
+msgstr "Longitud de extracto"
+
+#: ../shortcodes.php:208
+msgid "Sort Posts By"
+msgstr "Ordenar entradas por"
+
+#: ../shortcodes.php:211
+msgid "By comment count"
+msgstr "Mi Cuenta"
+
+#: ../shortcodes.php:212
+msgid "By date"
+msgstr "Por fecha"
+
+#: ../shortcodes.php:213
+msgid "By Title"
+msgstr "Título"
+
+#: ../shortcodes.php:214
+msgid "Random"
+msgstr "Azar"
+
+#: ../shortcodes.php:219
+msgid "Ascendic / Descendic"
+msgstr "Ascendente / Descendente"
+
+#: ../shortcodes.php:222
+msgid "Ascendic"
+msgstr "Ascendente"
+
+#: ../shortcodes.php:223
+msgid "Descendic"
+msgstr "Descendente"
+
+#: ../shortcodes.php:229
+msgid ""
+"Ignore Sticky Posts <br/><small> Please note that sticky posts are available "
+"when displaying All categories (All categories ID / -1).</small>"
+msgstr ""
+"Ignorar Entradas Pegajosas <br/><small> Tenga en cuenta que las entradas "
+"pegajosas están disponibles cuando se muestran todas las categorías Todas "
+"las categorías (ID / -1).</small>"
+
+#: ../shortcodes.php:241
+msgid "Contact Form"
+msgstr "Formulario de contacto"
+
+#: ../shortcodes.php:247
+msgid "Select contact options. Use CTRL+Click to select more than one option."
+msgstr ""
+"Selecciona el contacto. Utiliza Mayús + clic para seleccionar varias "
+"categorías."
+
+#: ../shortcodes.php:278
+msgid "No sliders set."
+msgstr "Diapositivas en septiembre."
+
+#: ../shortcodes.php:284
+msgid "Revolution Slider"
+msgstr "Deslizador Revolution"
+
+#: ../shortcodes.php:290
+msgid "Select slider"
+msgstr "Seleccione el tipo de deslizador."
+
+#: ../shortcodes.php:473
+msgid "View Project &rarr;"
+msgstr "Ver Proyecto &rarr;"
+
+#: ../single.php:28 ../single.php:61
+msgid "Tags"
+msgstr "Etiquetas"
+
+#: ../single.php:45
+msgid "View more"
+msgstr "Ver más"
+
+#: ../single.php:48
+msgid "Next page &gt;"
+msgstr "Siguiente Página &gt;"
+
+#: ../single.php:49
+msgid "&lt; Previous page"
+msgstr "&lt; Página anterior"
+
+#: ../admin/classes/class.options_machine.php:396
+msgid "Add New Link"
+msgstr "Añadir Nuevo Enlace"
+
+#: ../admin/classes/class.options_machine.php:527
+msgid "Last Backup : "
+msgstr "Última Copia De Seguridad :"
+
+#: ../admin/classes/class.options_machine.php:649
+#: ../admin/classes/class.options_machine.php:657
+#: ../admin/classes/class.options_machine.php:665
+#: ../admin/classes/class.options_machine.php:673
+#: ../admin/classes/class.options_machine.php:681
+msgid "ACTIVE"
+msgstr "ACTIVO"
+
+#: ../admin/classes/class.options_machine.php:653
+#: ../admin/classes/class.options_machine.php:661
+#: ../admin/classes/class.options_machine.php:669
+#: ../admin/classes/class.options_machine.php:677
+#: ../admin/classes/class.options_machine.php:685
+msgid "NOT ACTIVE"
+msgstr "NO ACTIVO"
+
+#: ../admin/classes/class.options_machine.php:690
+msgid ""
+"Your plugins are not properly installed or activated. Click the Install and "
+"Activate Plugins button to install all the plugins needed for PortalWP demo "
+"installation."
+msgstr ""
+"Tus plugins no están debidamente instalados o activados. Haga clic en el "
+"botón Instalar y Activar Plugins para instalar todos los plugins necesarios "
+"para la instalación de demostración PortalWP."
+
+#: ../admin/classes/class.options_machine.php:690
+msgid "Install and Activate Plugins"
+msgstr "Instalar y Activar Plugins"
+
+#: ../admin/classes/class.options_machine.php:693
+#: ../admin/classes/class.options_machine.php:719
+msgid "This step has been successfully completed!"
+msgstr "Este paso se ha completado con éxito!"
+
+#: ../admin/classes/class.options_machine.php:693
+#: ../admin/classes/class.options_machine.php:719
+#: ../admin/classes/class.options_machine.php:731
+msgid "OK"
+msgstr "BIEN"
+
+#: ../admin/classes/class.options_machine.php:716
+msgid ""
+"You have not imported all the images needed for the demo. Click the Import "
+"Images XML button to import the images XML file (this file can be found in "
+"the PortalWP full archive in the /demo/ folder."
+msgstr ""
+"No ha importado todas las imágenes necesarias para la demostración. Haga "
+"clic en el botón Importar Imágenes XML para importar el archivo de imágenes "
+"XML (este archivo se puede encontrar en el archivo completo PortalWP en la "
+"carpeta /demo/."
+
+#: ../admin/classes/class.options_machine.php:716
+msgid "Import Images XML"
+msgstr "Importar imágenes XML"
+
+#: ../admin/classes/class.options_machine.php:727
+msgid ""
+"Make sure you have completed previous steps before clicking the Install Demo "
+"Content button."
+msgstr ""
+"Asegúrese de que ha completado los pasos anteriores antes de hacer clic en "
+"el botón Instalar contenido de demostración."
+
+#: ../admin/classes/class.options_machine.php:728
+msgid "Install Demo Content"
+msgstr "Instalar contenido de demostración"
+
+#: ../admin/classes/class.options_machine.php:731
+msgid "Your Demo Content has ben successfully installed!"
+msgstr "Su contenido de demostración ha sido instalado con éxito!"
+
+#: ../admin/classes/class.options_machine.php:780
+msgid "Upload"
+msgstr "Sube"
+
+#: ../admin/classes/class.options_machine.php:1009
+msgid "Team Member"
+msgstr "Miembro del Equipo"
+
+#: ../admin/classes/class.options_machine.php:1068
+msgid "Add Network"
+msgstr "Añadir Red"
+
+#: ../admin/front-end/options.php:26
+msgid "Expand"
+msgstr "Expandir"
+
+#: ../admin/front-end/options.php:30 ../admin/front-end/options.php:46
+msgid "Save All Changes"
+msgstr "Guardar Todos Los Cambios"
+
+#: ../admin/front-end/options.php:47
+msgid "Options Reset"
+msgstr "Restaurar Opciones"
+
+#: ../admin/functions/functions.admin.php:43
+msgid "Welcome to PortalWP Theme"
+msgstr "Bienvenido a Tema"
+
+#: ../admin/functions/functions.admin.php:43
+msgid "Please install required plugins for this theme!"
+msgstr "Por favor, instale los plugins necesarios para este tema!"
+
+#: ../admin/functions/functions.admin.php:43
+msgid "CLICK HERE"
+msgstr "HAGA CLIC AQUÍ"
+
+#: ../admin/functions/functions.mediauploader.php:20
+msgid "Options"
+msgstr "Opciones"
+
+#: ../admin/functions/functions.mediauploader.php:210
+msgid "Gallery"
+msgstr "Galería"
+
+#: ../admin/functions/functions.mediauploader.php:210
+msgid "Previously Uploaded"
+msgstr "Anteriormente Subido"
+
+#: ../admin/functions/functions.options.php:29
+msgid "Subscribers"
+msgstr "Suscriptores"
+
+#: ../admin/functions/functions.options.php:30
+msgid "Months Running"
+msgstr "Meses Operando"
+
+#: ../admin/functions/functions.options.php:31
+msgid "Years Running"
+msgstr "Años Operando"
+
+#: ../admin/functions/functions.options.php:32
+msgid "Authors"
+msgstr "Autores"
+
+#: ../admin/functions/functions.options.php:35
+msgid "Days Running"
+msgstr "Días Operando"
+
+#: ../admin/functions/functions.options.php:36
+msgid "Articles"
+msgstr "Artículos"
+
+#: ../admin/functions/functions.options.php:52
+#: ../admin/functions/functions.options.php:55
+msgid "General Settings"
+msgstr "Configuración General"
+
+#: ../admin/functions/functions.options.php:58
+msgid "Welcome to the Theme Options"
+msgstr "Bienvenido a las Opciones de Tema"
+
+#: ../admin/functions/functions.options.php:59
+msgid ""
+"Use this Theme Options page to setup your site. Save your option once you "
+"customize your portal Theme."
+msgstr ""
+"Utilice esta página de opciones de tema para configurar tu sitio. Guarde tus "
+"opciones una vez que personalizaa la tema Portal."
+
+#: ../admin/functions/functions.options.php:63
+msgid "Upload logo"
+msgstr "Subir Logotipo"
+
+#: ../admin/functions/functions.options.php:64
+msgid ""
+"Upload your logo using the native media uploader, or define the URL directly."
+msgstr ""
+"Sube tu logotipo usando el cargador de medios nativo, o defina la dirección "
+"URL directamente."
+
+#: ../admin/functions/functions.options.php:70
+#: ../admin/functions/functions.options.php:74
+#: ../admin/functions/functions.options.php:77
+msgid "Style Settings"
+msgstr "Configuración pie de página"
+
+#: ../admin/functions/functions.options.php:78
+msgid "Setup your portal Style. Choose menu type, colors and fonts."
+msgstr ""
+"Configura tu estilo de Portal. Elija el tipo de menú, colores y tipos de "
+"letra."
+
+#: ../admin/functions/functions.options.php:83
+msgid "Header Menu Style"
+msgstr "Estilo de Menú de Cabecera"
+
+#: ../admin/functions/functions.options.php:84
+msgid "Select header menu style."
+msgstr "Seleccione Estilo de Menú de Cabecera"
+
+#: ../admin/functions/functions.options.php:94
+msgid "Select body font"
+msgstr "Selecciona fuente cursiva"
+
+#: ../admin/functions/functions.options.php:95
+msgid "Selected main font is used for text on pages and posts."
+msgstr ""
+"Fuente principal seleccionado se utiliza para el texto en páginas y entradas."
+
+#: ../admin/functions/functions.options.php:105
+msgid "Select header font"
+msgstr "Selecciona la fuente de texto principal"
+
+#: ../admin/functions/functions.options.php:106
+msgid "Selected font used for post headers."
+msgstr ""
+"Fuente principal seleccionado se utiliza para el texto en páginas y entradas."
+
+#: ../admin/functions/functions.options.php:116
+msgid "Colors"
+msgstr "Colores"
+
+#: ../admin/functions/functions.options.php:119
+msgid "Color Settings"
+msgstr "Configuración pie de página"
+
+#: ../admin/functions/functions.options.php:120
+msgid ""
+"Setup the colors used with portal Theme. Achieve any style which fits your "
+"style."
+msgstr ""
+"Configuración de los colores que se utilizan con la tema Portal. Conseguir "
+"cualquier estilo adaptado a tu estilo."
+
+#: ../admin/functions/functions.options.php:125
+msgid "Theme Color"
+msgstr "Color del Tema"
+
+#: ../admin/functions/functions.options.php:126
+msgid "Select theme color. Default color code is #ef5a32."
+msgstr ""
+"Seleccionar el color del tema. Código de color predeterminado es # ef5a32."
+
+#: ../admin/functions/functions.options.php:132
+msgid "Lighter Theme Color"
+msgstr "Más claro tema de color"
+
+#: ../admin/functions/functions.options.php:133
+msgid "Select lighter theme color. Default color code is #f27e62."
+msgstr ""
+"Selecciona color más claro de tema. Código de color predeterminado es # "
+"f27e62."
+
+#: ../admin/functions/functions.options.php:139
+msgid "Text Color"
+msgstr "Color del Tema"
+
+#: ../admin/functions/functions.options.php:140
+msgid "Select text color. Default color code is #333333."
+msgstr ""
+"Seleccionar color del texto. Código de color predeterminado es # 333333."
+
+#: ../admin/functions/functions.options.php:147
+msgid "Headers Color"
+msgstr "Color del Tema"
+
+#: ../admin/functions/functions.options.php:148
+msgid "Select headers color. Default color code is #222222."
+msgstr ""
+"Selecciona color de encabezados. Código de color por defecto es # 222222."
+
+#: ../admin/functions/functions.options.php:154
+msgid "Menu Border"
+msgstr "Borde del Menú"
+
+#: ../admin/functions/functions.options.php:155
+msgid "Select main menu border color. Default color code is #d9d9d9."
+msgstr ""
+"Selecciona color de frontera del menú principal. Código de color por defecto "
+"es # d9d9d9."
+
+#: ../admin/functions/functions.options.php:161
+msgid "Pale Color"
+msgstr "Color Pálido"
+
+#: ../admin/functions/functions.options.php:162
+msgid "Select pale color. Default color code is #a0a0a0."
+msgstr "Selecciona el color pálido. Código de color por defecto es # a0a0a0."
+
+#: ../admin/functions/functions.options.php:168
+msgid "Color White"
+msgstr "Color Blanco"
+
+#: ../admin/functions/functions.options.php:169
+msgid "Select white color. Default color code is #ffffff."
+msgstr "Selecciona el color blanco. Código de color por defecto es #ffffff."
+
+#: ../admin/functions/functions.options.php:175
+msgid "Background Color White"
+msgstr "Color de fondo Blanco"
+
+#: ../admin/functions/functions.options.php:176
+msgid "Select background white color. Default color code is #ffffff."
+msgstr ""
+"Selecciona el color de fondo blanco. Código de color por defecto es #ffffff."
+
+#: ../admin/functions/functions.options.php:182
+msgid "Background Color Pale"
+msgstr "Color de fondo pálido"
+
+#: ../admin/functions/functions.options.php:183
+msgid "Select background pale color. Default color code is #a0a0a0."
+msgstr ""
+"Selecciona el fondo de color pálido. Código de color por defecto es #a0a0a0."
+
+#: ../admin/functions/functions.options.php:189
+msgid "Background Color Default"
+msgstr "Color de fondo predeterminado."
+
+#: ../admin/functions/functions.options.php:190
+msgid "Select background default color. Default color code is #222222."
+msgstr ""
+"Selecciona el color de fondo predeterminado. Código de color predeterminado "
+"es #222222."
+
+#: ../admin/functions/functions.options.php:196
+msgid "Border Color Default"
+msgstr "Color de borde predeterminado"
+
+#: ../admin/functions/functions.options.php:197
+msgid "Select default border color. Default color code is #222222."
+msgstr ""
+"Selecciona el color de borde predeterminado. Código de color predeterminado "
+"es #222222."
+
+#: ../admin/functions/functions.options.php:203
+msgid "Border Color Pale"
+msgstr "Color del borde pálido"
+
+#: ../admin/functions/functions.options.php:204
+msgid "Select pale border color. Default color code is #dddddd."
+msgstr ""
+"Selecciona el color del borde pálido. Código de color predeterminado es # "
+"dddddd."
+
+#: ../admin/functions/functions.options.php:210
+msgid "Page Background Color"
+msgstr "Color de Fondo de Página"
+
+#: ../admin/functions/functions.options.php:211
+msgid "Select page background color. Default color code is #ffffff."
+msgstr ""
+"Selecciona el color de fondo de página. Código de color predeterminado es "
+"#ffffff."
+
+#: ../admin/functions/functions.options.php:216
+msgid "Pagination Background Color"
+msgstr "Color de fondo de la paginación"
+
+#: ../admin/functions/functions.options.php:217
+msgid "Select pagination background color. Default color code is #eeeeee."
+msgstr ""
+"Seleccionar color de fondo de paginación. Código de color predeterminado es "
+"#eeeeee."
+
+#: ../admin/functions/functions.options.php:223
+#: ../admin/functions/functions.options.php:229
+msgid "Footer Background"
+msgstr "Fondo de pie de página"
+
+#: ../admin/functions/functions.options.php:224
+msgid "Select footer background color. Default color code is #222222."
+msgstr ""
+"Selecciona color de fondo de pie de página. Código de color predeterminado "
+"es #222222."
+
+#: ../admin/functions/functions.options.php:230
+msgid "Select footer background color. Default color code is #ffffff."
+msgstr ""
+"Selecciona color de fondo de pie de página. Código de color predeterminado "
+"es #ffffff."
+
+#: ../admin/functions/functions.options.php:236
+#: ../admin/functions/functions.options.php:242
+msgid "Layout Settings"
+msgstr "Configuración pie de página"
+
+#: ../admin/functions/functions.options.php:239
+msgid "Layout Settings Settings"
+msgstr "Configuración del diseño"
+
+#: ../admin/functions/functions.options.php:243
+msgid "Set your layout. Set up your default margins used in the portal Theme."
+msgstr ""
+"Establezca tu diseño. Configure tus márgenes predeterminados que se utilizan "
+"en la tema Portal."
+
+#: ../admin/functions/functions.options.php:248
+msgid "Default Bottom Margin"
+msgstr "Margen inferior predeterminado"
+
+#: ../admin/functions/functions.options.php:249
+msgid "Set the default bottom margin on all elements. Default 20px."
+msgstr ""
+"Establece el margen del fondo predeterminado en todos los elementos. 20px "
+"predeterminado."
+
+#: ../admin/functions/functions.options.php:258
+msgid "Content Width / Responsive"
+msgstr "Contenido Ancho / Responsivo"
+
+#: ../admin/functions/functions.options.php:261
+msgid "Responsive Content Resolution"
+msgstr "Resolución de contenido Responsive"
+
+#: ../admin/functions/functions.options.php:262
+msgid ""
+"Setup your responsive break points. These settings define your layout width "
+"on various screen sizes and devices."
+msgstr ""
+"Configuración de los puntos de quiebre responsive. Estos ajustes permiten "
+"definir el ancho de diseño en diferentes tamaños de pantalla y dispositivos."
+
+#: ../admin/functions/functions.options.php:267
+msgid "Content Width / High Resolution"
+msgstr "Resolución Ancho/Altode de Contenido "
+
+#: ../admin/functions/functions.options.php:268
+msgid "Responsive width for high resolutions. Default value 1200px."
+msgstr "Ancho responsivo para altas resoluciones. 1200px valor predeterminado."
+
+#: ../admin/functions/functions.options.php:276
+#: ../admin/functions/functions.options.php:295
+#: ../admin/functions/functions.options.php:320
+msgid "Column Margins"
+msgstr "Los márgenes de columnas"
+
+#: ../admin/functions/functions.options.php:277
+msgid "Column margins for high resolutions. Default value 20px."
+msgstr ""
+"Márgenes de columnas para altas resoluciones. 20px valor predeterminada."
+
+#: ../admin/functions/functions.options.php:286
+msgid "Medium Resolution"
+msgstr "Resolución Media"
+
+#: ../admin/functions/functions.options.php:287
+msgid "Responsive width for medium resolutions. Default value 768px."
+msgstr "Ancho Responsive para resolución media. 768px valor predeterminado."
+
+#: ../admin/functions/functions.options.php:296
+msgid "Column margins for medium resolutions. Default value 10px."
+msgstr "Márgenes de columnas de resolución media. 10px valor predeterminado."
+
+#: ../admin/functions/functions.options.php:304
+#: ../admin/functions/functions.options.php:329
+msgid "Hide Sidebars"
+msgstr "Ocultar Barras laterales"
+
+#: ../admin/functions/functions.options.php:305
+#: ../admin/functions/functions.options.php:330
+msgid "Hide sidebars after current width."
+msgstr "Esconder barras laterales después de anchura actual."
+
+#: ../admin/functions/functions.options.php:311
+msgid "Low Resolution"
+msgstr "Baja Resolución"
+
+#: ../admin/functions/functions.options.php:312
+msgid "Responsive width for low resolutions. Default value 640px."
+msgstr "Ancho Responsive para bajas resoluciones. 640px valor predeterminado."
+
+#: ../admin/functions/functions.options.php:321
+msgid "Column margins for low resolutions. Default value 5px."
+msgstr ""
+"Márgenes de columnas para bajas resoluciones. 5px valor predeterminado."
+
+#: ../admin/functions/functions.options.php:336
+msgid "Sidebar Settings"
+msgstr "Configuración de la barra lateral"
+
+#: ../admin/functions/functions.options.php:340
+#: ../admin/functions/functions.options.php:348
+msgid "Sidebars"
+msgstr "Barras laterales"
+
+#: ../admin/functions/functions.options.php:343
+msgid "Sidebar Manager"
+msgstr "Administrador Control Deslizante"
+
+#: ../admin/functions/functions.options.php:344
+msgid ""
+"Create new sidebars to use in your pages and posts. Create unlimited number "
+"of sidebars and use them in Frontend Builder via Sidebar element."
+msgstr ""
+"Crear nuevas barras laterales para utilizar en tus páginas y entradas. Crear "
+"un número ilimitado de barras laterales y utilizalas en el Generador de "
+"Frontend través del elemento de la barra lateral."
+
+#: ../admin/functions/functions.options.php:349
+msgid "Unlimited sidebars for your pages/posts."
+msgstr "Barras laterales ilimitadas para tu páginas/puestas."
+
+#: ../admin/functions/functions.options.php:359
+#: ../admin/functions/functions.options.php:362
+#: ../admin/functions/functions.options.php:365
+msgid "Footer Settings"
+msgstr "Configuración pie de página"
+
+#: ../admin/functions/functions.options.php:366
+msgid "Choose footer columns. Set up the copyright text."
+msgstr "Elige columnas de pie de página. Configura el texto de copyright."
+
+#: ../admin/functions/functions.options.php:371
+msgid "Disable Footer Widget Areas"
+msgstr "Desactivar Áreas Widget en la pie de página"
+
+#: ../admin/functions/functions.options.php:372
+msgid "This option will disable footer widget areas."
+msgstr "Esta opción desactivará áreas de widgets de pie de página."
+
+#: ../admin/functions/functions.options.php:377
+msgid "Footer Widget Areas"
+msgstr "Áreas Widget pie de página"
+
+#: ../admin/functions/functions.options.php:378
+msgid "Select number of footer widget areas."
+msgstr "Seleccione el número de áreas de widgets de pie de página."
+
+#: ../admin/functions/functions.options.php:389
+msgid "Copyright Text"
+msgstr "Texto de copyright"
+
+#: ../admin/functions/functions.options.php:390
+msgid "Enter copyright text that will appear in footer."
+msgstr "Escriba el texto de derechos de autor que aparece en el pie de pagina."
+
+#: ../admin/functions/functions.options.php:395
+msgid "Facebook URL"
+msgstr "Dirección URL de Facebook"
+
+#: ../admin/functions/functions.options.php:396
+msgid "Enter your Facebook URL e.g. http://www.facebook.com/user/"
+msgstr ""
+"Escriba tu dirección URL de Facebook por ejemplo http://www.facebook.com/"
+"user/"
+
+#: ../admin/functions/functions.options.php:401
+msgid "Twitter URL"
+msgstr "Dirección URL de Twitter"
+
+#: ../admin/functions/functions.options.php:402
+msgid "Enter your Twitter URL e.g. http://www.twitter.com/user/"
+msgstr ""
+"Escriba tu dirección URL de Twitter por ejemplo http://www.twitter.com/user/"
+
+#: ../admin/functions/functions.options.php:407
+msgid "Google+ URL"
+msgstr "Dirección URL de Google+"
+
+#: ../admin/functions/functions.options.php:408
+msgid "Enter your Google+ URL e.g. http://www.googleplus.com/user/"
+msgstr ""
+"Escriba tu dirección URL de Google+ por ejemplo http://www.googleplus.com/"
+"user/"
+
+#: ../admin/functions/functions.options.php:413
+msgid "LinkedIn URL"
+msgstr "dirección URL de LinkedIn"
+
+#: ../admin/functions/functions.options.php:414
+msgid "Enter your LinkedIn URL e.g. http://www.linkedin.com/user/"
+msgstr ""
+"Escriba tu dirección URL de LinkedIn por ejemplo http://www.linkedin.com/"
+"user/"
+
+#: ../admin/functions/functions.options.php:419
+msgid "Pinterest URL"
+msgstr "Dirección URL de Pinterest"
+
+#: ../admin/functions/functions.options.php:420
+msgid "Enter your Pinterest URL e.g. http://www.pinterest.com/user/"
+msgstr ""
+"Escriba tu dirección URL de Twitter por ejemplo http://www.twitter.com/user/"
+
+#: ../admin/functions/functions.options.php:425
+msgid "Youtube URL"
+msgstr "Dirección URL de Youtube"
+
+#: ../admin/functions/functions.options.php:426
+msgid "Enter your Youtube URL e.g. http://www.youtube.com/user/"
+msgstr ""
+"Introduzca tu dirección de Youtube por ejemplo http://www.youtube.com/user/"
+
+#: ../admin/functions/functions.options.php:431
+#: ../admin/functions/functions.options.php:448
+#: ../admin/functions/functions.options.php:451
+msgid "Contact Settings"
+msgstr "Configuración de Contacto"
+
+#: ../admin/functions/functions.options.php:434
+#: ../admin/functions/functions.options.php:437
+#: ../admin/functions/functions.options.php:442
+msgid "Contact Form Custom Message"
+msgstr "Mensaje Personalizado para Formulario de Contacto"
+
+#: ../admin/functions/functions.options.php:438
+msgid ""
+"Set your Contact Form custom message. This message will appear once the E-"
+"Mail is sent."
+msgstr ""
+"Ponga tu mensaje personalizado para Formulario de Contacto. Este mensaje "
+"aparece cuando se envía el E-Mail."
+
+#: ../admin/functions/functions.options.php:443
+msgid "Enter cutom HTML/Text."
+msgstr "Introduzca HTML / texto personalizado."
+
+#: ../admin/functions/functions.options.php:452
+msgid "Setup your team members."
+msgstr "Configuración de los miembros del equipo."
+
+#: ../admin/functions/functions.options.php:456
+msgid "Contact Settings / Team Members"
+msgstr "Configuración de Contactos / Miembros del Equipo"
+
+#: ../admin/functions/functions.options.php:457
+msgid ""
+"Add or remove contact options/team members. You can use this entries later "
+"in your content as Team element or Contact Form element."
+msgstr ""
+"Añada o elimina opciones de contacto/miembros del equipo. Puedes utilizar "
+"estas entradas más adelante en su contenido como Elemento del Equipo o "
+"Elemento de Formulario de Contacto."
+
+#: ../admin/functions/functions.options.php:478
+#: ../admin/functions/functions.options.php:482
+#: ../admin/functions/functions.options.php:485
+msgid "Twitter Settings"
+msgstr "Configuración pie de página"
+
+#: ../admin/functions/functions.options.php:486
+msgid ""
+"Set custom Twitter API keys. Go to <a href=\"http://dev.twitter.com/\" "
+"target=\"_blank\">Twitter Developer pages</a> to get your secure keys."
+msgstr ""
+"Configura claves API de Twitter personalizados. Ve a <a href=\"http://dev."
+"twitter.com/\" target=\"_blank\">Twitter Developer pages</a>para obtener tus "
+"claves seguras."
+
+#: ../admin/functions/functions.options.php:491
+msgid "Consumer Key"
+msgstr "Clave del Consumidor"
+
+#: ../admin/functions/functions.options.php:492
+msgid "Consumer key provided by dev.twitter.com"
+msgstr "Clave del Consumidor proporcionada por dev.twitter.com"
+
+#: ../admin/functions/functions.options.php:498
+msgid "Consumer Secret"
+msgstr "Secreto del Consumidor"
+
+#: ../admin/functions/functions.options.php:499
+msgid "Consumer secret provided by dev.twitter.com"
+msgstr "Secreto del Consumidor proporcionado por dev.twitter.com"
+
+#: ../admin/functions/functions.options.php:505
+msgid "Access token"
+msgstr "Token de acceso"
+
+#: ../admin/functions/functions.options.php:506
+msgid "Access token provided by dev.twitter.com"
+msgstr "Token de acceso proporcionado por dev.twitter.com"
+
+#: ../admin/functions/functions.options.php:512
+msgid "Access token secret"
+msgstr "Acceder secreto de token"
+
+#: ../admin/functions/functions.options.php:513
+msgid "Access token secret provided by dev.twitter.com"
+msgstr "Acceder secreto de token proporcionado por Acceder secreto de token"
+
+#: ../admin/functions/functions.options.php:519
+#: ../admin/functions/functions.options.php:523
+#: ../admin/functions/functions.options.php:526
+msgid "Advanced Settings"
+msgstr "Opciones Avanzadas"
+
+#: ../admin/functions/functions.options.php:527
+msgid "Set custom CSS classes, Google Analytics code."
+msgstr "Establecer clases CSS personalizadas, código de Google Analytics."
+
+#: ../admin/functions/functions.options.php:531
+msgid "Enable Comments on Pages"
+msgstr "Habilitar Comentarios en las Páginas"
+
+#: ../admin/functions/functions.options.php:532
+msgid "If you need comments on pages please enable this switch."
+msgstr ""
+"Si necesitas comentarios en las páginas, por favor, activa esta opción."
+
+#: ../admin/functions/functions.options.php:538
+msgid "Responsive / Fixed Layout"
+msgstr "Disposición Responsivo / Fijo"
+
+#: ../admin/functions/functions.options.php:539
+msgid "Enable Responsive layout or use Fixed layout insted."
+msgstr ""
+"Activar disposición responsiva o utilizar disposición fija en su lugar."
+
+#: ../admin/functions/functions.options.php:546
+msgid "Service Mode"
+msgstr "Modo de Servicio"
+
+#: ../admin/functions/functions.options.php:547
+msgid ""
+"Enable Theme Settings Bar on site. This is used for theme displays and "
+"previews. It will enable visiting user to set custom colors, widths or "
+"layouts."
+msgstr ""
+"Activar barra Ajustes de Tema en el sitio. Esto se utiliza para pantallas de "
+"tema y las vistas previas. Esto permitirá usuarios que visitan configurar "
+"colores personalizados, anchos o disposiciones."
+
+#: ../admin/functions/functions.options.php:553
+msgid "Tracking Code"
+msgstr "Código de seguimiento"
+
+#: ../admin/functions/functions.options.php:554
+msgid ""
+"Paste your Google Analytics (or other) tracking code here. This will be "
+"added into the header of your site."
+msgstr ""
+"Pegue su Google Analytics (u otro) código de seguimiento. Esto se añade a la "
+"cabecera de su sitio."
+
+#: ../admin/functions/functions.options.php:560
+msgid "Custom CSS"
+msgstr "CSS Personalizado"
+
+#: ../admin/functions/functions.options.php:561
+msgid "Quickly add some CSS to your theme by adding it to this block."
+msgstr "Añadir CSS  rápidamente a su tema, añadiendo a este bloque."
+
+#: ../admin/functions/functions.options.php:568
+#: ../admin/functions/functions.options.php:571
+msgid "Demo Installation"
+msgstr "Instalación de demostración"
+
+#: ../admin/functions/functions.options.php:574
+msgid "Install PortalWP demo content"
+msgstr "Instalar PortalWP contenido de demostración"
+
+#: ../admin/functions/functions.options.php:574
+#: ../admin/functions/functions.options.php:631
+msgid "IMPORTANT"
+msgstr "IMPORTANTE"
+
+#: ../admin/functions/functions.options.php:575
+msgid ""
+"Demo content can only be installed on a clean Wordpress installation. If you "
+"have any posts/pages do not install demo as it will overwrite all your posts "
+"and pages. Make sure that your Wordpress version is 3.8 or newer."
+msgstr ""
+"Contenido de demostración sólo se puede instalar en una limpia instalación "
+"de Wordpress. Si tieneS algunos puestos/páginas no deberias instalar el "
+"contenido de demostración, ya que eso sobrescribe todos tus puestos y "
+"páginas. Asegúrate de que tu versión de Wordpress es 3.8 o más reciente."
+
+#: ../admin/functions/functions.options.php:580
+msgid "Step 1"
+msgstr "Paso 1"
+
+#: ../admin/functions/functions.options.php:583
+msgid "Step 1 - Plugins"
+msgstr "Paso 1 - Plugins"
+
+#: ../admin/functions/functions.options.php:584
+msgid "Install and activate all the plugins used by PortalWP Theme."
+msgstr "Instalar y activar todos los plugins utilizados por Tema PortalWP."
+
+#: ../admin/functions/functions.options.php:589
+msgid "Installed Plugins"
+msgstr "Plugins instalados"
+
+#: ../admin/functions/functions.options.php:590
+msgid ""
+"This list shows needed plugins. Please install and activate all the plugins "
+"before you continue with the demo installation."
+msgstr ""
+"Esta lista muestra los plugins necesarios. Por favor, instalar y activar "
+"todos los plugins antes de continuar con la instalación de demostración."
+
+#: ../admin/functions/functions.options.php:596
+msgid "Step 2"
+msgstr "Paso 2"
+
+#: ../admin/functions/functions.options.php:599
+msgid "Step 2 - Images"
+msgstr "Paso 2 - Imágenes"
+
+#: ../admin/functions/functions.options.php:600
+msgid "Download images used in the demo content."
+msgstr "Descarga imágenes utilizadas en el contenido de demostración."
+
+#: ../admin/functions/functions.options.php:605
+msgid "Download Images"
+msgstr "Descarga Imágenes"
+
+#: ../admin/functions/functions.options.php:606
+msgid ""
+"If you cannot see all of the images on left then your installation has "
+"failed due to an error caused by max_execution_time of your server. Either "
+"contact your service provider or try uploading the file again and again "
+"until you can see all the images."
+msgstr ""
+"Si no puedes ver todas las imágenes a la izquierda entonces la instalación "
+"ha fallado debido a un error causado por max_execution_time de tu servidor. "
+"Póngase en contacto con tu proveedor de servicio o intenta subir el archivo "
+"repetidas veces hasta que puedes ver todas las imágenes."
+
+#: ../admin/functions/functions.options.php:612
+msgid "Step 3"
+msgstr "Paso 3"
+
+#: ../admin/functions/functions.options.php:615
+msgid "Step 3 - Demo Content"
+msgstr "Paso 3 - "
+
+#: ../admin/functions/functions.options.php:616
+msgid ""
+"One click demo installation. Please make sure you have completed the "
+"previous two steps!"
+msgstr ""
+"Instalación de contenido de demostración con un clic. Por favor, asegúrete "
+"de que has completado los dos pasos anteriores!"
+
+#: ../admin/functions/functions.options.php:621
+msgid "Demo Content"
+msgstr "Contenido de Demostración"
+
+#: ../admin/functions/functions.options.php:622
+msgid ""
+"Click the Install Demo Content button to make your site look just like our "
+"PortalWP Demo"
+msgstr ""
+"Haga clic en el botón Instalar contenido de demostración para hacer que su "
+"sitio se parece a nuestra demo de PortalWP."
+
+#: ../admin/functions/functions.options.php:622
+msgid "LINK"
+msgstr "ENLACE"
+
+#: ../admin/functions/functions.options.php:628
+msgid "Remove Demo"
+msgstr "Retirar demostración"
+
+#: ../admin/functions/functions.options.php:631
+msgid "Notice"
+msgstr "Aviso"
+
+#: ../admin/functions/functions.options.php:632
+msgid ""
+"If you do not want to use the Demo Content and you wish this option to be "
+"removed from the PortalWP Theme options panel click the Remove Demo Tab "
+"button."
+msgstr ""
+"Si no deseas utilizar el contenido de demostración y deseas que esta opción "
+"se elimina del panel de Opciones de tema PortalWP haga clic en el botón "
+"Eliminar tabulación de demostración."
+
+#: ../admin/functions/functions.options.php:632
+msgid "Remove Demo Tab"
+msgstr "Eliminar Tabulación de Demostración "
+
+#: ../admin/functions/functions.options.php:639
+msgid "Backup Options"
+msgstr "Opciones Básicas"
+
+#: ../admin/functions/functions.options.php:642
+msgid "\"Backup and Restore Options\""
+msgstr "\"Opciones de copia de seguridad y restauración\""
+
+#: ../admin/functions/functions.options.php:646
+msgid ""
+"You can use the two buttons below to backup your current options, and then "
+"restore it back at a later time. This is useful if you want to experiment on "
+"the options but would like to keep the old settings in case you need it back."
+msgstr ""
+"Puedes usar los dos botones de abajo para hacer una copia de seguridad de "
+"tus opciones actuales, y luego restaurar de nuevo en un momento posterior. "
+"Esto es útil si deseas experimentar con las opciones, pero deseas mantener "
+"la configuración anterior en caso de que lo necesitas de nuevo."
+
+#: ../admin/functions/functions.options.php:649
+msgid "Transfer Theme Options Data"
+msgstr "Transferencia de datos Opciones de Tema"
+
+#: ../admin/functions/functions.options.php:653
+msgid ""
+"You can tranfer the saved options data between different installs by copying "
+"the text inside the text box. To import data from another install, replace "
+"the data in the text box with the one from another install and click "
+"\"Import Options\"."
+msgstr ""
+"Puedes transferir los datos guardados entre las diferentes opciones de las "
+"instalaciones copiando el texto dentro del cuadro de texto. Para importar "
+"datos desde otra instalación, vuelva a colocar los datos en el cuadro de "
+"texto con el de otra la instalación y haga clic en \"Opciones de importación "
+"\"."
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:167
+msgid "Something went wrong."
+msgstr "Algo ha ido mal."
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:180
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Todos los plugins instalados y activados con éxito. %1$s"
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:517
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:2058
+msgid "Return to the Dashboard"
+msgstr "Vuelva al Escritorio"
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:545
+#, php-format
+msgid "The following plugin was activated successfully: %s."
+msgstr "El siguiente plugin se activó con éxito: %s."
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:704
+msgid "Dismiss this notice"
+msgstr "Ignorar este aviso"
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1091
+msgid "External Link"
+msgstr "Enlace Externo"
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1096
+msgid "Private Repository"
+msgstr "Depósito Privado"
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1099
+msgid "Pre-Packaged"
+msgstr "Pre-envasados"
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1103
+msgid "WordPress Repository"
+msgstr "Repositorio de WordPress"
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1106
+msgid "Required"
+msgstr "Requerido"
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1106
+msgid "Recommended"
+msgstr "Recomendado"
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1109
+msgid "Not Installed"
+msgstr "No instalado"
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1111
+msgid "Installed But Not Activated"
+msgstr "Instalado pero no activado"
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1281
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+"No hay plugins para instalar o activar. <a href=\"%1$s\" title=\"Vuelva al "
+"Escritorio\">Vuelva al Escritorio</a>"
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1297
+msgid "Plugin"
+msgstr "Plugin"
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1298
+msgid "Source"
+msgstr "Origen"
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1299
+msgid "Type"
+msgstr "Tipo"
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1300
+msgid "Status"
+msgstr "Estatus"
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1318
+msgid "Install"
+msgstr "Instalar"
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1319
+msgid "Activate"
+msgstr "Activar"
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1544
+msgid "The following plugin was activated successfully:"
+msgstr "El siguiente plugin se activó con éxito:"
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1829
+msgid "Install package not available."
+msgstr "Paquete de instalación no está disponible."
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1830
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+"Descarga de paquete de instalación de <span class=\"code\">%s</span>&#8230;"
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1831
+msgid "Unpacking the package&#8230;"
+msgstr "Desembalaje del paquete&#8230;"
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1832
+msgid "Installing the plugin&#8230;"
+msgstr "Instalando el plugin&#8230;"
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1833
+msgid "Plugin install failed."
+msgstr "instalación de falló."
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1834
+msgid "Plugin installed successfully."
+msgstr "Plugin instalado correctamente."
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1845
+msgid "Plugin activation failed."
+msgstr "Activación de Plugin falló."
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1955
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"El proceso de instalación y activación se está iniciando. Este proceso puede "
+"tardar un poco en algunos ejércitos, así que por favor sea paciente."
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1956
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s instalado y activado correctamente."
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1956
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1965
+msgid "Show Details"
+msgstr "Mostrar Detalles"
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1956
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1965
+msgid "Hide Details"
+msgstr "Esconder Detalles"
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1957
+msgid "All installations and activations have been completed."
+msgstr "Todas las instalaciones y activaciones se han completado."
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalación y activación de Plugin %1$s (%2$d/%3$d)"
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1962
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"El proceso de instalación está iniciando. Este proceso puede tardar un poco "
+"en algunos ejércitos, así que por favor sea paciente."
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1963
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+"Se ha producido un error durante la instalación de %1$s: <strong>%2$s</"
+"strong>."
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1964
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "La instalación de %1$s ha fallado."
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1965
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s instalado correctamente."
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1966
+msgid "All installations have been completed."
+msgstr "Todas las instalaciones se han completado."
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1967
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalando Plugin %1$s (%2$d/%3$d)"
+
+#~ msgid "HTTP Error 404 - File or Directory not found"
+#~ msgstr "Error HTTP 404 - archivo o directorio no encontrado"
+
+#~ msgid "Try searching the"
+#~ msgstr "Código de seguimiento"
+
+#~ msgid "by"
+#~ msgstr "por"
+
+#~ msgid "Leave a comment"
+#~ msgstr "comentario"
+
+#~ msgid "One comment so far"
+#~ msgstr "comentarios"
+
+#~ msgid "View all % comments"
+#~ msgstr "Ver todos % comentarios"
+
+#~ msgid "Continue reading"
+#~ msgstr "Seguir leyendo"
+
+#~ msgid "in"
+#~ msgstr "en"
+
+#~ msgid "Load more posts"
+#~ msgstr "Cargar más mensajes"
+
+#~ msgid "SEND"
+#~ msgstr "ENVIAR"
+
+#~ msgid "Comments are closed."
+#~ msgstr "Comentarios están desactivados."
+
+#~ msgid "Secondary Footer Menu"
+#~ msgstr "Menú Secundario Pie de página"
+
+#~ msgid "VIEW DETAILS"
+#~ msgstr "VER DETALLES"
+
+#~ msgid "Blog Archives Sidebar"
+#~ msgstr "Barra lateral de Archivo del Blog"
+
+#~ msgid "This sidebar appears on Blog Archive pages."
+#~ msgstr "Esta barra lateral aparece en las páginas Archivo de Blog."
+
+#~ msgid "Woocommerce Sidebar"
+#~ msgstr "Barra lateral de WooCommerce"
+
+#~ msgid ""
+#~ "This sidebar appears on Woocommerce pages. This sidebar is disabled in "
+#~ "Magazine Layout mode."
+#~ msgstr ""
+#~ "Esta barra lateral aparece en las páginas Woocommerce. Esta barra lateral "
+#~ "es desactivada en el modo de diseño Revista."
+
+#, fuzzy
+#~ msgid "Blog Archive Widgets Before "
+#~ msgstr "Barra lateral de Archivo del Blog"
+
+#, fuzzy
+#~ msgid "Blog Archive Widgets After "
+#~ msgstr "Barra lateral de Archivo del Blog"
+
+#, fuzzy
+#~ msgid "Single Posts Widgets Before "
+#~ msgstr "Barra lateral Entrada Individual"
+
+#, fuzzy
+#~ msgid "Single Posts Widgets After "
+#~ msgstr "Barra lateral Entrada Individual"
+
+#~ msgid "Read More"
+#~ msgstr "Leer más"
+
+#~ msgid "View First Page"
+#~ msgstr "Ver Primera página"
+
+#~ msgid "View Last Page"
+#~ msgstr "Ver Última página"
+
+#~ msgid "%1$s"
+#~ msgstr "%1$s"
+
+#~ msgid ""
+#~ "Anivia Magazine Layout has support for colored categories. For this "
+#~ "option you must edit each category upon creation."
+#~ msgstr ""
+#~ "Anivia Disposición Revista tiene soporte para las categorías de colores. "
+#~ "Para esta opción debe editar cada categoría en la creación."
+
+#~ msgid "Category Color"
+#~ msgstr "En la categoría:"
+
+#~ msgid "Select category color."
+#~ msgstr "Seleccionar categoría de color."
+
+#~ msgid "comments"
+#~ msgstr "Comentarios"
+
+#~ msgid "CHECK IT OUT"
+#~ msgstr "VERLO"
+
+#~ msgid "Posts tabs"
+#~ msgstr "Puestos"
+
+#~ msgid "Latest"
+#~ msgstr "Más reciente"
+
+#~ msgid "Trending"
+#~ msgstr "Tendencia"
+
+#~ msgid "Title:"
+#~ msgstr "Título"
+
+#~ msgid "Social subscribers"
+#~ msgstr "Suscriptores sociales"
+
+#~ msgid "FANS"
+#~ msgstr "AFICIONADOS"
+
+#~ msgid "FOLLOWERS"
+#~ msgstr "SEGUIDORES"
+
+#~ msgid "SUBSCRIBERS"
+#~ msgstr "SUSCRIPTORES"
+
+#~ msgid "Facebook Page ID"
+#~ msgstr "Dirección URL de Facebook"
+
+#~ msgid "Twitter ID"
+#~ msgstr "Dirección URL de Twitter"
+
+#~ msgid "SendPress list ID"
+#~ msgstr "ID del lista SendPress"
+
+#~ msgid "Embed Adds to your Sidebars"
+#~ msgstr "Inserción Añade a tus barras laterales"
+
+#~ msgid "Size"
+#~ msgstr "Tamaño"
+
+#~ msgid "Large Rectangle (336x280px)"
+#~ msgstr "Rectángulo grande (336x280px)"
+
+#~ msgid "Medium Rectangle (300x250px)"
+#~ msgstr "Rectángulo mediano (300x250px)"
+
+#~ msgid "Leaderboard (728x90px)"
+#~ msgstr "La tabla de posiciones (728x90px)"
+
+#~ msgid "Wide Skyscraper (160x600px)"
+#~ msgstr "Rascacielos ancho (160x600px)"
+
+#~ msgid "Add Embed Code"
+#~ msgstr "Añadir Código de Inserción"
+
+#, fuzzy
+#~ msgid "Show category posts"
+#~ msgstr "Seleccionar categoría de color."
+
+#, fuzzy
+#~ msgid "comment"
+#~ msgstr "Comentarios"
+
+#, fuzzy
+#~ msgid "Order"
+#~ msgstr "Total del Pedido"
+
+#~ msgid " ago</span>"
+#~ msgstr "algún tiempo"
+
+#~ msgid "Reset"
+#~ msgstr "Reinicializar"
+
+#~ msgid ""
+#~ "Add short News text that will appear bellow the featured image or video."
+#~ msgstr ""
+#~ "Añadir texto breve de noticia que aparecerá debajo de la imagen o video."
+
+#~ msgid "Set featured video embed."
+#~ msgstr "Configurar el video destacado de inserción."
+
+#~ msgid "News"
+#~ msgstr "Noticias"
+
+#~ msgid "Magazine"
+#~ msgstr "Revista"
+
+#~ msgid "Blog"
+#~ msgstr "Blog"
+
+#~ msgid "Blank"
+#~ msgstr "Blanco"
+
+#~ msgid "Set featured area gallery."
+#~ msgstr "Configurar galería de área destacada."
+
+#~ msgid "Menu"
+#~ msgstr "Menú"
+
+#~ msgid "View your shopping cart"
+#~ msgstr "Ver su carrito de compra"
+
+#~ msgid "My Account"
+#~ msgstr "Mi Cuenta"
+
+#~ msgid "Log in"
+#~ msgstr "Iniciar sesión"
+
+#~ msgid "No posts found!"
+#~ msgstr "puestos encontrados"
+
+#~ msgid "Search the website"
+#~ msgstr "Resultados de búsqueda"
+
+#~ msgid "News - 1 Column"
+#~ msgstr "Noticias - 1 columna"
+
+#~ msgid "News - 2 Column"
+#~ msgstr "Noticias - 1 columna"
+
+#~ msgid "News - 3 Column"
+#~ msgstr "Noticias - 1 columna"
+
+#~ msgid "News - 4 Column"
+#~ msgstr "Noticias - 1 columna"
+
+#~ msgid "Blog - 1 Column"
+#~ msgstr "Blog - 1 columna"
+
+#~ msgid "Blog - 2 Column"
+#~ msgstr "Blog - 2 columnas"
+
+#~ msgid "Blog - 3 Column"
+#~ msgstr "Blog - 3 columnas"
+
+#~ msgid "Magazine - Full Featured"
+#~ msgstr "Magazine - con todas las funciones"
+
+#~ msgid "Magazine - 4 Column / Small"
+#~ msgstr "Noticias - 4 Columnas / Pequeño"
+
+#~ msgid "Rows"
+#~ msgstr "Filas"
+
+#~ msgid "Show Pagination"
+#~ msgstr "Mostrar paginación"
+
+#~ msgid "Ajax Load"
+#~ msgstr "Carga Ajax"
+
+#~ msgid "Insert Portfolio"
+#~ msgstr "Insertar Portafolio"
+
+#~ msgid "Magazine Fluid Posts"
+#~ msgstr "Entradas Fluidas de Revista"
+
+#~ msgid "Posts per page"
+#~ msgstr "Entradas por página"
+
+#~ msgid ""
+#~ "Ignore Sticky Posts / Please note that sticky posts are available when "
+#~ "displaying All categories (All categories ID / -1)."
+#~ msgstr ""
+#~ "Ignorar Entradas Pegajosas / Tenga en cuenta que las entradas pegajosas "
+#~ "están disponibles cuando se muestran todas las categorías Todas las "
+#~ "categorías (ID / -1).</small>"
+
+#~ msgid "Use category color as background color."
+#~ msgstr "Usa color de categoría como color de fondo."
+
+#~ msgid "Categories"
+#~ msgstr "Categorías"
+
+#, fuzzy
+#~ msgid "Show category colors."
+#~ msgstr "Seleccionar categoría de color."
+
+#~ msgid "Related Posts"
+#~ msgstr "Puestos Relacionados"
+
+#~ msgid "Select posts. Use CTRL+Click to select multiple posts."
+#~ msgstr ""
+#~ "Selecciona Entradas. Utiliza Mayús + clic para seleccionar varios "
+#~ "mensajes."
+
+#~ msgid "Don`t ignore reference post."
+#~ msgstr "No ignorar entrada de referencia."
+
+#~ msgid "Three Categories"
+#~ msgstr "Tres categorías"
+
+#~ msgid "Select category #1"
+#~ msgstr "Seleccionar categoría #1"
+
+#~ msgid "Select category #2"
+#~ msgstr "Seleccionar categoría #2"
+
+#~ msgid "Select category #3"
+#~ msgstr "Seleccionar categoría #3"
+
+#~ msgid "Three Posts"
+#~ msgstr "Puestos Relacionados"
+
+#~ msgid "Select post #1"
+#~ msgstr "Selecciona opciones"
+
+#~ msgid "Select post #2"
+#~ msgstr "Selecciona opciones"
+
+#~ msgid "Select post #3"
+#~ msgstr "Selecciona opciones"
+
+#~ msgid "Link List"
+#~ msgstr "Lista Enlace"
+
+#~ msgid "Select category. Use CTRL+Click to select multiple categories."
+#~ msgstr ""
+#~ "Seleccionar categoría. Usar CTRL + clic para seleccionar varias "
+#~ "categorías."
+
+#~ msgid "Link List Related Posts"
+#~ msgstr "Puestos Relacionados"
+
+#~ msgid "Select post"
+#~ msgstr "Selecciona opciones"
+
+#~ msgid "Magazine Link List"
+#~ msgstr "Lista Enlace Revista"
+
+#~ msgid "Magazine Link List Related Posts"
+#~ msgstr "Lista Enlaces Revista Entradas Relacionadas"
+
+#~ msgid "Small Related Links"
+#~ msgstr "Pequeños Enlaces Relacionados"
+
+#~ msgid "Team"
+#~ msgstr "Equipo"
+
+#~ msgid ""
+#~ "Select contact. Contacts are created in Appearance>Theme Options>Contact "
+#~ "Settings"
+#~ msgstr ""
+#~ "Selecciona el contacto. Los contactos se crean en Apariencia> Opciones "
+#~ "Tema> Configuración de contactos"
+
+#~ msgid "Add Spaces"
+#~ msgstr "Añadir Espacios"
+
+#~ msgid "Select Add Size"
+#~ msgstr "Selecciona Añadir Tamaño"
+
+#~ msgid "Top Rated Products"
+#~ msgstr "Los mejores productos"
+
+#~ msgid "Products per page"
+#~ msgstr "Productos por página"
+
+#~ msgid "Sort Products By"
+#~ msgstr "Ordenar Productos Por"
+
+#~ msgid "Sale Products"
+#~ msgstr "Productos de venta"
+
+#~ msgid "Recent Products"
+#~ msgstr "Productos Recientes"
+
+#~ msgid "Featured Products"
+#~ msgstr "Productos Destacados"
+
+#~ msgid "Products"
+#~ msgstr "Productos"
+
+#~ msgid "Select products. Use CTRL+Click to select multiple products."
+#~ msgstr ""
+#~ "Seleccionar productos. Usar CTRL + clic para seleccionar varios productos."
+
+#~ msgid "Product categories"
+#~ msgstr "Categorías de productos"
+
+#~ msgid "Select categories. Use CTRL+Click to select multiple products."
+#~ msgstr ""
+#~ "Seleccionar categorías. Usar CTRL + clic para seleccionar varios "
+#~ "productos."
+
+#~ msgid "All Categories"
+#~ msgstr "Guardar Todos Los Cambios"
+
+#~ msgid "READ MORE"
+#~ msgstr "LEER MÁS"
+
+#~ msgid "POST COMMENT"
+#~ msgstr "ENVIAR UN COMENTARIO"
+
+#~ msgid "Related"
+#~ msgstr "Puestos Relacionados"
+
+#~ msgid "on"
+#~ msgstr "Ninguno"
+
+#~ msgid "Read More &rarr;"
+#~ msgstr "Leer más &rarr;"
+
+#~ msgid "Please select products"
+#~ msgstr "Por favor, selecciona productos"
+
+#~ msgid "View"
+#~ msgstr "Ver"
+
+#~ msgid "Rate this article"
+#~ msgstr "Evalúa este artículo"
+
+#~ msgid "NEXT ARTICLE"
+#~ msgstr "NEXT ARTICLE"
+
+#~ msgid "PREVIOUS ARTICLE"
+#~ msgstr "ARTÍCULO ANTERIOR"
+
+#~ msgid ""
+#~ "Anivia supports three layouts. News, Magazine and Blog. Choose the layout "
+#~ "that fits your website style."
+#~ msgstr ""
+#~ "Anivia soporta tres diseños. Noticias, Revista y Blog. Elige el diseño "
+#~ "que se adapte a estilo de su página web."
+
+#~ msgid "Site Layout"
+#~ msgstr "Disposición Caja / Amplia"
+
+#~ msgid ""
+#~ "Select your site layout. Choose from Blog, News, Magazine or Shop layuot."
+#~ msgstr ""
+#~ "Elige tu diseño del sitio. Elija entre disposición Blog, Noticias, "
+#~ "Revista o Shop."
+
+#~ msgid "Override Blog Layout"
+#~ msgstr "Anular Disposición Blog"
+
+#~ msgid "Override default blog layout.."
+#~ msgstr "Anular diseño predeterminado de blog."
+
+#~ msgid "Button Hover Color"
+#~ msgstr "Color de Botón Suspender"
+
+#~ msgid ""
+#~ "Select Button Hover Color. Usually a lighter color is used. Default color "
+#~ "code is #df3946."
+#~ msgstr ""
+#~ "Selecciona Color de Botón Suspender. Normalmente se utiliza un color más "
+#~ "claro. Código de color por defecto es # df3946."
+
+#~ msgid "Select Passive Theme Color. Default color code is #cccccc."
+#~ msgstr ""
+#~ "Seleccione Color del tema. Predeterminado código de color cal verde es "
+#~ "#e84c3d."
+
+#~ msgid "Pale Passive Theme Color"
+#~ msgstr "Color del Tema"
+
+#~ msgid "Select Pale Passive Theme Color. Default color code is #e7e7e7."
+#~ msgstr ""
+#~ "Seleccione Color del tema. Predeterminado código de color cal verde es "
+#~ "#e84c3d."
+
+#~ msgid "Separator Color"
+#~ msgstr "Color de Separador"
+
+#~ msgid ""
+#~ "Page Background Color in boxed mode. Wide layout uses Wordpress "
+#~ "Background for it`s background properties."
+#~ msgstr ""
+#~ "Color de Fondo de Página en el modo en caja. Disposición ancha utiliza "
+#~ "Wordpress Background para sus propiedades de fondo."
+
+#~ msgid "Footer Text Color"
+#~ msgstr "Color de texto en el pie de página"
+
+#~ msgid "Footer Pale Background"
+#~ msgstr "Fondo pie de página pálido"
+
+#~ msgid "Boxed / Wide Layout"
+#~ msgstr "Disposición Caja / Amplia"
+
+#~ msgid "Enable Boxed layout or use Wide layout insted."
+#~ msgstr "Activar disposición en Caja o utilizar disposición Amplia en lugar."
+
+#~ msgid "Single Post Settings"
+#~ msgstr "Configuración de la barra lateral"
+
+#~ msgid "Setup your Single Posts."
+#~ msgstr "Configurar tus Entradas Individuales."
+
+#~ msgid "Show post titles on Single Posts."
+#~ msgstr "Muestra título de la entrada en Entradas Individuales."
+
+#~ msgid "Show Featured Image"
+#~ msgstr "Mostrar Imagen Destacada"
+
+#~ msgid "Show featured images on Single Posts."
+#~ msgstr "Mostrar imágenes destacadas en Entradas Individuales."
+
+#~ msgid "Show Short News"
+#~ msgstr "Mostrar Noticias Cortas"
+
+#~ msgid "Show short news on Single Posts just bellow featured image."
+#~ msgstr ""
+#~ "Mostrar noticias breves en Entradas Individuales justo debajo de la "
+#~ "imagen destacada."
+
+#~ msgid "Show Post Info"
+#~ msgstr "Mostrar Información de Entrada"
+
+#~ msgid ""
+#~ "Show post information on Single Posts. This info is shown just bellow "
+#~ "Featured Image."
+#~ msgstr ""
+#~ "información posterior de entrada en Entradas Individuales. Esta "
+#~ "información se muestra justo debajo de la foto destacada."
+
+#~ msgid "Enable Author Information"
+#~ msgstr "Sobre El Autor"
+
+#~ msgid "Enable author information on Single Posts."
+#~ msgstr "Habilitar información del autor en Entradas Individuales."
+
+#, fuzzy
+#~ msgid "Show Post Tags"
+#~ msgstr "Muestra título de la entrada"
+
+#, fuzzy
+#~ msgid "Show post tags at the end of Single Posts."
+#~ msgstr "Muestra título de la entrada en Entradas Individuales."
+
+#, fuzzy
+#~ msgid "Show Post Bar"
+#~ msgstr "Mostrar Información de Entrada"
+
+#, fuzzy
+#~ msgid "Show post bar at the end of Single Posts."
+#~ msgstr "Muestra título de la entrada en Entradas Individuales."
+
+#, fuzzy
+#~ msgid "Show Post Navigation"
+#~ msgstr "Mostrar paginación"
+
+#, fuzzy
+#~ msgid "Show post navigation at the end of Single Posts."
+#~ msgstr "Muestra título de la entrada en Entradas Individuales."
+
+#~ msgid "Header Settings"
+#~ msgstr "Configuración de Encabezamiento"
+
+#~ msgid "Set your main header add."
+#~ msgstr "Configuración de los miembros del equipo."
+
+#~ msgid "Main Header Add"
+#~ msgstr "Principal Anuncio de Cabecera"
+
+#~ msgid "Enter you add embed data. Add size 728x90px"
+#~ msgstr "Ingrese sus datos embed deanuncio. Tamaño del anuncio 728x90px"
+
+#~ msgid "Show Sticky Logo"
+#~ msgstr "Mostrar Logo Adherido"
+
+#~ msgid "Show small logo in sticky bar."
+#~ msgstr "Mostrar el logo pequeño en la barra pegajosa."
+
+#~ msgid "Use Custom Social Icons"
+#~ msgstr "Usar Iconos Sociales Personalizados"
+
+#~ msgid ""
+#~ "Create your own social icons to use in Sticky Menu and in the Header. You "
+#~ "can find .psd template image for creating custom icons in the Anivia "
+#~ "archive downloaded from Themeforest.net."
+#~ msgstr ""
+#~ "Crea tus propios iconos sociales para utilizar en Menú Adherido y en el "
+#~ "encabezamiento. Puedes encontrar la imagen .psd de la plantilla para "
+#~ "crear iconos personalizados en el archivo Anivia descargado de "
+#~ "Themeforest.net."
+
+#~ msgid ""
+#~ "Setup default post/product archive sidebar. Create custom sidebars to use "
+#~ "on pages."
+#~ msgstr ""
+#~ "Configuración predeterminado del poste / producto barra lateral de "
+#~ "archivo. Crea barras laterales personalizadas para utilizar en las "
+#~ "páginas."
+
+#~ msgid "Blog Archive Sidebar"
+#~ msgstr "Barra lateral de Archivo del Blog"
+
+#~ msgid ""
+#~ "Enable Blog Archive sidebar. This sidebar appears on Blog Archive pages."
+#~ msgstr ""
+#~ "Habilitar barra lateral de Archivo de Blog. Esta barra lateral aparece en "
+#~ "las páginas Archivo de Blog."
+
+#~ msgid "Sidebar Position"
+#~ msgstr "Configuración de la barra lateral"
+
+#~ msgid "Use left or right sidebar."
+#~ msgstr "Utilice la barra lateral izquierda o derecha."
+
+#~ msgid "Enable Single Posts sidebar. This sidebar appears on Single Posts."
+#~ msgstr ""
+#~ "Habilitar la barra lateral para Entradas Individuales. Esta barra lateral "
+#~ "aparece en Entradas Individuales."
+
+#, fuzzy
+#~ msgid "Widgetized Areas"
+#~ msgstr "Áreas Widget pie de página"
+
+#, fuzzy
+#~ msgid "Before Archive"
+#~ msgstr "Archivos"
+
+#, fuzzy
+#~ msgid "Select number of widget areas before blog archives."
+#~ msgstr "Seleccione el número de áreas de widgets de pie de página."
+
+#, fuzzy
+#~ msgid "After Archive"
+#~ msgstr "Archivos"
+
+#, fuzzy
+#~ msgid "Select number of widget areas after blog archives."
+#~ msgstr "Seleccione el número de áreas de widgets de pie de página."
+
+#, fuzzy
+#~ msgid "Before Single Post"
+#~ msgstr "Configurar tus Entradas Individuales."
+
+#, fuzzy
+#~ msgid "Select number of widget areas before single post."
+#~ msgstr "Seleccione el número de áreas de widgets de pie de página."
+
+#, fuzzy
+#~ msgid "After Single Post"
+#~ msgstr "Configurar tus Entradas Individuales."
+
+#, fuzzy
+#~ msgid "Select number of widget areas after single post."
+#~ msgstr "Seleccione el número de áreas de widgets de pie de página."
+
+#~ msgid "Upload Footer Logo"
+#~ msgstr "Subir Logotipo pie de página."
+
+#~ msgid ""
+#~ "Upload your footer logo using the native media uploader, or define the "
+#~ "URL directly."
+#~ msgstr ""
+#~ "Sube tu logotipo usando el cargador de medios nativo, o defina la "
+#~ "dirección URL directamente."
+
+#~ msgid "Footer Logo Text Line"
+#~ msgstr "Logotipo de Pie de página línea de texto"
+
+#~ msgid "Enter footer text that will appear with the footer logo."
+#~ msgstr ""
+#~ "Introduzca el texto del pie que aparecerá con el logotipo de pie de "
+#~ "página."
+
+#~ msgid "Footer Counter"
+#~ msgstr "Contador pie de página"
+
+#~ msgid "Drag and drop counters to use in the footer."
+#~ msgstr "Arrastra y suelta los contadores para su uso en el pie de página."
+
+#~ msgid "Woocommerce Settings"
+#~ msgstr "Configuración Woocommerce"
+
+#~ msgid "Setup Woocommerce settings."
+#~ msgstr "Ajusta la configuración de Woocommerce."
+
+#~ msgid "Disable Cart/Login"
+#~ msgstr "Desactivar Carrito/Inicio de sesión"
+
+#~ msgid ""
+#~ "Disable Cart and Login icons in the header. This option is usefull if you "
+#~ "are usign AllAround theme only to showcase your products."
+#~ msgstr ""
+#~ "Desactivar Carrito y Iniciar Sesión iconos en el encabezado. Esta opción "
+#~ "es útil si estás utilizando el tema AllAround sólo para mostrar tus "
+#~ "productos."
+
+#~ msgid "Wocommerce Sidebar"
+#~ msgstr "Barra lateral de WooCommerce"
+
+#~ msgid "Enable Wocommerce sidebar."
+#~ msgstr "Habilitar barra lateral de WooCommerce"
+
+#~ msgid "Woocommerce Sidebar Position"
+#~ msgstr "Posición de barra lateral de WooCommerce"
+
+#~ msgid "Woocommerce Columns"
+#~ msgstr "Columnos WooCommerce"
+
+#~ msgid "Default number of Woocommerce columns on Shop and Archive pages."
+#~ msgstr ""
+#~ "Número predeterminado de columnas WooCommerce en Tienda y páginas de "
+#~ "Archivo."
+
+#~ msgid "Items"
+#~ msgstr "Artículos"
+
+#~ msgid "Rated %s out of 5"
+#~ msgstr "Calificado %s de 5"
+
+#~ msgid "out of 5"
+#~ msgstr "de 5"
+
+#~ msgid "Reviews"
+#~ msgstr "Reseñas"
+
+#~ msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+#~ msgstr "<span class=\"meta-nav\">&larr;</span> Anterior"
+
+#~ msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+#~ msgstr "Siguiente <span class=\"meta-nav\">&rarr;</span>"
+
+#~ msgid "Add Your Review"
+#~ msgstr "Añada tu reseña"
+
+#~ msgid "Add Review"
+#~ msgstr "Añada reseña"
+
+#~ msgid "Add a review"
+#~ msgstr "Añadir una reseña"
+
+#~ msgid "Be the first to review"
+#~ msgstr "Sea el primero en reseñar"
+
+#~ msgid ""
+#~ "There are no reviews yet, would you like to <a href=\"#review_form\" "
+#~ "class=\"inline show_review_form\">submit yours</a>?"
+#~ msgstr ""
+#~ "Aún no hay reseños, ¿quieres <a href=\"#review_form\" class=\"inline "
+#~ "show_review_form\">someter tuyos</a>?"
+
+#~ msgid "Name"
+#~ msgstr "Nombre"
+
+#~ msgid "Email"
+#~ msgstr "Correo electrónico"
+
+#~ msgid "Submit Review"
+#~ msgstr "Someter Reseña"
+
+#~ msgid "Rating"
+#~ msgstr "Valoración"
+
+#~ msgid "Rate&hellip;"
+#~ msgstr "Valorar&hellip;"
+
+#~ msgid "Perfect"
+#~ msgstr "Perfecto"
+
+#~ msgid "Good"
+#~ msgstr "Bien"
+
+#~ msgid "Average"
+#~ msgstr "Promedio"
+
+#~ msgid "Not that bad"
+#~ msgstr "No es tan malo"
+
+#~ msgid "Very Poor"
+#~ msgstr "Muy mal"
+
+#~ msgid "Your Review"
+#~ msgstr "Tu Reseña"
+
+#~ msgid "Related Products"
+#~ msgstr "Productos Relacionados"
+
+#~ msgid "You may also like&hellip;"
+#~ msgstr "Tal vez te gusta&hellip;"
+
+#~ msgid "No slider templates set"
+#~ msgstr "No hay plantillas deslizantes establecidas"
+
+#~ msgid "Revolution Slider not installed"
+#~ msgstr "Revolution Slider no está instalado."
+
+#~ msgid "Select category"
+#~ msgstr "Selecciona opciones"
+
+#~ msgid "MORE"
+#~ msgstr "MÁS"
+
+#~ msgid ""
+#~ "Enter contacts IDs separated by comma to add them to Contact Form "
+#~ "options. e.g. 1,2,3. These contacts are created in Appearance>Theme "
+#~ "Options>Contact Settings."
+#~ msgstr ""
+#~ "Escriba ID's de contactos separados por coma para añadirlos a opciones "
+#~ "Formulario de Contacto, por ejemplo 1,2,3. Estos contactos se crean en "
+#~ "Apariencia> Opciones de Tema> Configuración de contactos."
+
+#~ msgid "Page"
+#~ msgstr "Página"
+
+#~ msgid "CONGRATULATIONS!"
+#~ msgstr "¡ENHORABUENA!"
+
+#~ msgid "YOU HAVE UNLOCKED THE ACHIEVEMENT"
+#~ msgstr "HA ABIERTO EL LOGRO"
+
+#~ msgid "\"FIND THE 404 PAGE\""
+#~ msgstr "\"ENCUENTRA LA PÁGINA 404\""
+
+#~ msgid "RETURN TO THE"
+#~ msgstr "REGRESA A LA"
+
+#~ msgid "TO CLAIM YOUR PRIZE"
+#~ msgstr "PARA RECLAMAR SU PREMIO"
+
+#~ msgid " post/s found"
+#~ msgstr "puesto/s encontrados"
+
+#~ msgid "<span>Sticky</span> - "
+#~ msgstr "<span>Pegajoso</span>"
+
+#~ msgid "Comment on this post"
+#~ msgstr "Comenta sobre esta entrada"
+
+#~ msgid "Enter your name here"
+#~ msgstr "Escriba su nombre aquí"
+
+#~ msgid "Enter your email here"
+#~ msgstr "Escribe tu correo electrónico aquí"
+
+#~ msgid "Web"
+#~ msgstr "Dirección de sitio web"
+
+#~ msgid "Enter your website here"
+#~ msgstr "Escribe tu sitio web aquí"
+
+#~ msgid "Home"
+#~ msgstr "Inicio"
+
+#~ msgid ""
+#~ "No posts were found for the searched critera. Search again or browse the "
+#~ "latest archives."
+#~ msgstr ""
+#~ "No entradas fueron encontrados para el critera buscado. Busca de nuevo "
+#~ "los archivos más recientes."
+
+#~ msgid "About The Author"
+#~ msgstr "Sobre El Autor"
+
+#~ msgid "Page Control"
+#~ msgstr "Control de Página"
+
+#~ msgid "AllAround Products Evaluation"
+#~ msgstr "Evaluación de Productos AllAround"
+
+#~ msgid "Basic Options"
+#~ msgstr "Opciones Básicas"
+
+#~ msgid "Theme basic page options."
+#~ msgstr "Opciones básicas de la página de Tema."
+
+#~ msgid "Breadcrumbs"
+#~ msgstr "Pasos para la navegación"
+
+#~ msgid "Turn OFF Breadcrumbs"
+#~ msgstr "Desactive pasos para la navegación"
+
+#~ msgid "Custom Sidebar"
+#~ msgstr "Barra Lateral Personalizada"
+
+#~ msgid "Slider Options"
+#~ msgstr "Opciones del deslizador"
+
+#~ msgid "Insert Slider"
+#~ msgstr "Insertar deslizador"
+
+#~ msgid "Activate slider. Set up slides and slider parametars."
+#~ msgstr "Activar deslizador. Configure deslizador y parametars deslizante."
+
+#~ msgid "Slider ON/OFF"
+#~ msgstr "Deslizador Activar/Apagar"
+
+#~ msgid "Enable slider on this page."
+#~ msgstr "Habilitar deslizador en esta página."
+
+#~ msgid "Slider Type"
+#~ msgstr "Tipo Deslizante"
+
+#~ msgid "Configure selected slider"
+#~ msgstr "Configurar el deslizador seleccionado"
+
+#~ msgid ""
+#~ "If you've selected Revolution slider please select your saved Revolution "
+#~ "slider template. If you've selected other slide systems please use Slide "
+#~ "Manager bellow to configure your slides."
+#~ msgstr ""
+#~ "Si ha seleccionado deslizador Revolution por favor seleccione su modelo "
+#~ "deslizador Revolution  guardado. Si has seleccionado otros sistemas "
+#~ "deslizantes por favor utilizacia Slide Administrador de abajo para "
+#~ "configurar las diapositivas."
+
+#~ msgid "Select saved revolution slider template."
+#~ msgstr "Selecciona modelo guardado de deslizante Revolution."
+
+#~ msgid ""
+#~ "Use this drag&drop manager to create your slides. For more information on "
+#~ "sliders view our AllAround documentation."
+#~ msgstr ""
+#~ "Utilice este drag & drop administrador para crear las diapositivas. Para "
+#~ "obtener más información sobre los controles deslizantes ver nuestra "
+#~ "documentación Allaround."
+
+#~ msgid "Add or remove slides. Drag and drop to change slide order."
+#~ msgstr ""
+#~ "Agregar o eliminar diapositivas. Arrastrar y soltar para cambiar el orden "
+#~ "de presentación."
+
+#~ msgid "Shortcode Generator"
+#~ msgstr "Shortcode Generador"
+
+#~ msgid ""
+#~ "Use Shortcode Generator to create your page layouts. Templates can be "
+#~ "inserted, loaded, saved or edited. Use Add New Element to add elements to "
+#~ "template. Drag and drop elements to change their order. This Shortcode "
+#~ "Generator supports only AllAround shortcodes. Shortcodes for plugins as "
+#~ "WooCommerce or Revolution slider can be put inside Text/HTML element for "
+#~ "saving template purposes.<p>Please note that Full-Width Shortcodes are "
+#~ "working only on full width pages when sidebars are not used.</p>"
+#~ msgstr ""
+#~ "Utilice Generador shortcode para crear sus diseños de página. Las "
+#~ "plantillas se pueden insertar, cargar, guardar o editar. Utilice la "
+#~ "opción Agregar nuevo elemento para agregar elementos a la plantilla. "
+#~ "Arrastrar y soltar elementos para cambiar su orden. Este generador "
+#~ "shortcode sólo admite Allaround shortcodes. Shortcodes para plugins como "
+#~ "WooCommerce o deslizador Revolución se pueden poner dentro del elemento "
+#~ "Texto / HTML para guardar los propósitos de la plantilla. <p>Por favor, "
+#~ "tenga en cuenta que Shortcodes de ancho completo están trabajando sólo en "
+#~ "las páginas de ancho completo cuando no se utilizan barras laterales. </p>"
+
+#~ msgid "Customer Evaluation"
+#~ msgstr "Evaluación del cliente"
+
+#~ msgid "Setup your Customer Evaluation options."
+#~ msgstr "Configuración de las opciones de evaluación del cliente."
+
+#~ msgid "The line just below CUSTOMER EVALUTION title."
+#~ msgstr "La línea justo debajo del título EVALUACIÓN DEL CLIENTE."
+
+#~ msgid "Bar #1 Title"
+#~ msgstr "Título de Barra #1"
+
+#~ msgid "Title for Bar #1."
+#~ msgstr "Título para la Barra # 1."
+
+#~ msgid "Bar #1 Progress"
+#~ msgstr "Progreso de Barra #1"
+
+#~ msgid "Bar #2 Title"
+#~ msgstr "Título de Barra #2"
+
+#~ msgid "Title for Bar #2."
+#~ msgstr "Título para la Barra #2"
+
+#~ msgid "Bar #2 Progress"
+#~ msgstr "Progreso de Barra #2"
+
+#~ msgid "Progress for Bar #2."
+#~ msgstr "Progreso para Barra #2."
+
+#~ msgid "Bar #3 Title"
+#~ msgstr "Título de Barra #3"
+
+#~ msgid "Title for Bar #3."
+#~ msgstr "Título para la Barra #3"
+
+#~ msgid "Bar #3 Progress"
+#~ msgstr "Progreso de Barra #3"
+
+#~ msgid "Progress for Bar #3."
+#~ msgstr "Progreso para Barra #3."
+
+#~ msgid "Bar #4 Title"
+#~ msgstr "Título de Barra #4"
+
+#~ msgid "Title for Bar #4."
+#~ msgstr "Título para la Barra #4"
+
+#~ msgid "Bar #4 Progress"
+#~ msgstr "Progreso de Barra #4"
+
+#~ msgid "Progress for Bar #4."
+#~ msgstr "Progreso para Barra #4."
+
+#~ msgid "Upload Small Logo"
+#~ msgstr "Sube Logotipo Pequeño"
+
+#~ msgid ""
+#~ "Upload your small logo using the native media uploader, or define the URL "
+#~ "directly."
+#~ msgstr ""
+#~ "Sube tu pequeño logotipo usando el cargador de medios nativo, o defina la "
+#~ "dirección URL directamente."
+
+#~ msgid "Blog Settings"
+#~ msgstr "Configuración pie de página"
+
+#~ msgid "Setup blog archive pages default type."
+#~ msgstr "Active barra lateral de Archivo del Blog."
+
+#~ msgid "Blog Type"
+#~ msgstr "Tipo de Blog"
+
+#~ msgid ""
+#~ "Select your default blog type.<br/> 1 - Blog Regular<br/> 2 - Blog "
+#~ "Circles<br/> 3 - Blog Circles Two Columns<br/> 4 - Blog Circles Three "
+#~ "Columns<br/> 5 - Blog Small Circles<br/> 6 - Blog Small Circles Two "
+#~ "Columns<br/> 7 - Blog Small Circles Three Columns"
+#~ msgstr ""
+#~ "Seleccione el tipo de blog predeterminado . <br/> 1 - Blog Regular <br/> "
+#~ "2 - Blog de Círculos <br/> 3 - Blog de Círculos Dos Columnas <br/> 4 - "
+#~ "Blog de Círculos Tres Columnas <br/> 5 - Blog Círculos Pequeños <br/> 6 - "
+#~ "Blog Pequeños Círculos Dos Columnas <br/> 7 - Blog Pequeños Círculos Tres "
+#~ "Columnas"
+
+#~ msgid "Single Post display options."
+#~ msgstr "Configura las opciones de tipografía."
+
+#~ msgid "Header Socials"
+#~ msgstr "Configuración de Encabezamiento"
+
+#~ msgid "Set your header social network urls."
+#~ msgstr ""
+#~ "Establezca tu direcciónes URL de redes sociales en el encabezamiento"
+
+#~ msgid "Digg URL"
+#~ msgstr "Dirección URL de Digg"
+
+#~ msgid "Enter your Digg URL e.g. http://www.digg.com/user/"
+#~ msgstr ""
+#~ "Escriba tu dirección URL de Digg por ejemplo http://www.digg.com/user/"
+
+#~ msgid "RSS Feed URL"
+#~ msgstr "Dirección URL de RSS"
+
+#~ msgid "Enter your RSS Feed URL e.g. http://www.yoursite.com/rss/"
+#~ msgstr ""
+#~ "Escriba tu dirección URL de RSS por ejemplo http://www.yoursite.com/rss/"
+
+#~ msgid "Enable blog archive sidebar."
+#~ msgstr "Active barra lateral de Archivo del Blog."
+
+#~ msgid "Woocommerce Archive Sidebar"
+#~ msgstr "Barra lateral de Archivo del Woocommerce"
+
+#~ msgid "Enable WooCommerce archive sidebar including the \"Shop\" page."
+#~ msgstr ""
+#~ "Active WooCommerce barra lateral de archivo incluyendo la página \"Shop\"."
+
+#~ msgid "Footer links"
+#~ msgstr "Enlaces pie de página"
+
+#~ msgid "Set small slider images and links. Please use icons 60x60px."
+#~ msgstr ""
+#~ "Ajuste imágenes deslizantes pequeñas y enlaces. Por favor utilice los "
+#~ "iconos de 60x60px."
+
+#~ msgid "Input text to be displayed after footer."
+#~ msgstr "Introduzca el texto que se mostrará después de pie de página."
+
+#~ msgid "Footer Twitter ON/OFF"
+#~ msgstr "Twitter en pie de página Activar/Apagar"
+
+#~ msgid "Switch ON or OFF the Top Area."
+#~ msgstr "Cambie la parte superior Activada o Apagada."
+
+#~ msgid "Please enter Twitter username. e.g. themeforest"
+#~ msgstr ""
+#~ "Por favor, introduzca nombre de usuario de Twitter. Por ejemplo "
+#~ "themeforest"
+
+#~ msgid "Typography"
+#~ msgstr "Tipografía"
+
+#~ msgid "Set your typography options."
+#~ msgstr "Configura las opciones de tipografía."
+
+#~ msgid ""
+#~ "In this theme you can set your custom fonts. Choose your font for text "
+#~ "and headers."
+#~ msgstr ""
+#~ "En este tema, puedes configurar tus  fuentes personalizadas. Elige tu "
+#~ "fuente para el texto y los encabezados."
+
+#~ msgid "Selected cursive font is used for italic text, quotes etc."
+#~ msgstr ""
+#~ "Fuente cursiva seleccionada se utiliza para el texto en itálica, citas, "
+#~ "etc."
+
+#~ msgid "Page settings"
+#~ msgstr "Configuración de Página"
+
+#~ msgid "Products settings"
+#~ msgstr "Configuración de Productos"
+
+#~ msgid "View options"
+#~ msgstr "Ver opciones"
+
+#~ msgid "Add to cart"
+#~ msgstr "Añadir a carrito de compra"
+
+#~ msgid "Check out these related products."
+#~ msgstr "Echa un vistazo a estos productos."
+
+#~ msgid "Interesting Products"
+#~ msgstr "Productos Interesantes"
+
+#~ msgid "All Products are listed."
+#~ msgstr "Todos los productos están en la lista."
+
+#~ msgid "Primary Navigation"
+#~ msgstr "Navegación Principal"
+
+#~ msgid "You are here"
+#~ msgstr "Estás aquí"
+
+#~ msgid "Enter your name..."
+#~ msgstr "Escriba su nombre..."
+
+#~ msgid "Enter your e-mail..."
+#~ msgstr "Escriba su dirección de e-mail..."
+
+#~ msgid "Message"
+#~ msgstr "Mensaje"
+
+#~ msgid "Joined"
+#~ msgstr "Registrado"
+
+#~ msgid "%s"
+#~ msgstr "%s"
+
+#~ msgid "Edit &rarr;"
+#~ msgstr "Editar &rarr;"
+
+#~ msgid "ORDER NOW"
+#~ msgstr "COMPRA AHORA"
+
+#~ msgid "CUSTOMER EVALUATION"
+#~ msgstr "EVALUACIÓN DE CLIENTES"
+
+#~ msgid "Related offer"
+#~ msgstr "Oferta relativa"
+
+#~ msgid "Calculate Shipping"
+#~ msgstr "Calcular Envio"
+
+#~ msgid "Select a country&hellip;"
+#~ msgstr "Selecciona un país&hellip;"
+
+#~ msgid "State / county"
+#~ msgstr "Estado / País"
+
+#~ msgid "City"
+#~ msgstr "Ciudad"
+
+#~ msgid "Postcode / Zip"
+#~ msgstr "Código Postal / Zip"
+
+#~ msgid "Update Totals"
+#~ msgstr "Actualizar Totales"
+
+#~ msgid "Cart Totals"
+#~ msgstr "Totales de Cesta"
+
+#~ msgid "Cart Subtotal"
+#~ msgstr "Subtotal de la cesta"
+
+#~ msgid "Cart Discount"
+#~ msgstr "Descuento de Cesta"
+
+#~ msgid "Shipping"
+#~ msgstr "Envío"
+
+#~ msgid "Order Discount"
+#~ msgstr "Descuento de Orden"
+
+#~ msgid "(Includes %s)"
+#~ msgstr "(Incluye %s)"
+
+#~ msgid " (taxes estimated for %s)"
+#~ msgstr " (impuestos estimados para %s)"
+
+#~ msgid ""
+#~ "Note: Shipping and taxes are estimated%s and will be updated during "
+#~ "checkout based on your billing and shipping information."
+#~ msgstr ""
+#~ "Nota: El envío y los impuestos son estimados%s sy se actualizarán durante "
+#~ "el pago en base a su información de facturación y envío."
+
+#~ msgid ""
+#~ "No shipping methods were found; please recalculate your shipping and "
+#~ "enter your state/county and zip/postcode to ensure there are no other "
+#~ "available methods for your location."
+#~ msgstr ""
+#~ "No se encontraron métodos de envío, por favor vuelva a calcular su envío "
+#~ "y escriba su estado / provincia y zip / código postal para asegurarse de "
+#~ "que no hay otros métodos disponibles para su ubicación."
+
+#~ msgid ""
+#~ "Sorry, it seems that there are no available shipping methods for your "
+#~ "location (%s)."
+#~ msgstr ""
+#~ "Lo sentimos, parece que no existen métodos de envío disponibles para su "
+#~ "ubicación (%s)."
+
+#~ msgid ""
+#~ "If you require assistance or wish to make alternate arrangements please "
+#~ "contact us."
+#~ msgstr ""
+#~ "Si necesita ayuda o desea hacer arreglos alternativos por favor póngase "
+#~ "en contacto con nosotros."
+
+#~ msgid "Sign up"
+#~ msgstr "Regístrate"

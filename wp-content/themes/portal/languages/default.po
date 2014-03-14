@@ -1,0 +1,1671 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PortaWP\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-01-23 15:52+0100\n"
+"PO-Revision-Date: 2014-01-23 15:52+0100\n"
+"Last-Translator: nenad mihajlovic <dzeriho@gmail.com>\n"
+"Language-Team:  <dzeriho@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x\n"
+"X-Poedit-Basepath: ./\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../comments.php:15
+msgid "Comment"
+msgstr ""
+
+#: ../comments.php:15 ../admin/functions/functions.options.php:37
+msgid "Comments"
+msgstr ""
+
+#: ../comments.php:19
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: ../comments.php:30
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../comments.php:33
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../comments.php:44 ../functions.php:1181
+msgid "NAME"
+msgstr ""
+
+#: ../comments.php:46
+msgid "EMAIL"
+msgstr ""
+
+#: ../comments.php:48
+msgid "WEB"
+msgstr ""
+
+#: ../comments.php:50 ../functions.php:1196
+msgid "MESSAGE GOES HERE (MAX 300 CHARS)"
+msgstr ""
+
+#: ../comments.php:50
+msgid "Send Us A Message Here"
+msgstr ""
+
+#: ../comments.php:50
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: ../comments.php:50
+msgid "Send"
+msgstr ""
+
+#: ../content-archive.php:13 ../single.php:27
+msgid "Date"
+msgstr ""
+
+#: ../content-archive.php:14 ../single.php:29
+msgid "Author"
+msgstr ""
+
+#: ../content-portfolio.php:26
+msgid "View project &rarr;"
+msgstr ""
+
+#: ../functions.php:16
+msgid "Primary Header Menu"
+msgstr ""
+
+#: ../functions.php:90
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:164
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../functions.php:91
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:165
+msgid "Install Plugins"
+msgstr ""
+
+#: ../functions.php:92
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:166
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../functions.php:93
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../functions.php:104
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:178
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:490
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../functions.php:105
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:179
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1846
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../functions.php:106
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../functions.php:308
+msgid "Single Posts Sidebar"
+msgstr ""
+
+#: ../functions.php:314
+msgid "This sidebar appears on Single Posts."
+msgstr ""
+
+#: ../functions.php:318
+msgid "Footer 1"
+msgstr ""
+
+#: ../functions.php:327
+msgid "Footer 2"
+msgstr ""
+
+#: ../functions.php:336
+msgid "Footer 3"
+msgstr ""
+
+#: ../functions.php:345
+msgid "Footer 4"
+msgstr ""
+
+#: ../functions.php:376
+msgid "Theme Options"
+msgstr ""
+
+#: ../functions.php:394
+msgid "Article"
+msgstr ""
+
+#: ../functions.php:400
+msgid "HOME"
+msgstr ""
+
+#: ../functions.php:422
+msgid "Category"
+msgstr ""
+
+#: ../functions.php:425
+msgid "Month"
+msgstr ""
+
+#: ../functions.php:428
+msgid "Year"
+msgstr ""
+
+#: ../functions.php:431
+msgid "Day"
+msgstr ""
+
+#: ../functions.php:436 ../searchform.php:12
+msgid "Search"
+msgstr ""
+
+#: ../functions.php:436
+msgid "posts found"
+msgstr ""
+
+#: ../functions.php:439
+msgid "Shop"
+msgstr ""
+
+#: ../functions.php:470
+msgid "404 Page"
+msgstr ""
+
+#: ../functions.php:541
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../functions.php:547
+msgid "Edit"
+msgstr ""
+
+#: ../functions.php:559 ../functions.php:571
+msgid "Pingback:"
+msgstr ""
+
+#: ../functions.php:561 ../functions.php:573
+msgid "(Edit)"
+msgstr ""
+
+#: ../functions.php:649
+msgid "Remove page padding"
+msgstr ""
+
+#: ../functions.php:652 ../functions.php:706
+msgid "Set page content width (e.g. 1200)"
+msgstr ""
+
+#: ../functions.php:662
+msgid "Select featured area content"
+msgstr ""
+
+#: ../functions.php:666 ../functions.php:761
+msgid "None"
+msgstr ""
+
+#: ../functions.php:667
+msgid "Featured image parallax"
+msgstr ""
+
+#: ../functions.php:668
+msgid "Featured image parallax with title"
+msgstr ""
+
+#: ../functions.php:669
+msgid "Featured image/video on left"
+msgstr ""
+
+#: ../functions.php:670 ../functions.php:763
+msgid "Video"
+msgstr ""
+
+#: ../functions.php:671
+msgid "Parallax Video"
+msgstr ""
+
+#: ../functions.php:684
+msgid "Set featured area video embed (MP4)."
+msgstr ""
+
+#: ../functions.php:689
+msgid "Set featured area video embed (OGG)."
+msgstr ""
+
+#: ../functions.php:694
+msgid "Hide post title"
+msgstr ""
+
+#: ../functions.php:697
+msgid "Hide post meta"
+msgstr ""
+
+#: ../functions.php:700
+msgid "Hide post tags"
+msgstr ""
+
+#: ../functions.php:703
+msgid "Remove padding"
+msgstr ""
+
+#: ../functions.php:713
+msgid ""
+"Select sidebar to use with this post. You can create additional sidebars in "
+"Appearance > Theme Options"
+msgstr ""
+
+#: ../functions.php:741
+msgid "Select category for Blog/Portfolio page templates"
+msgstr ""
+
+#: ../functions.php:757
+msgid "Select page gallery template background content"
+msgstr ""
+
+#: ../functions.php:762
+msgid "Featured Image"
+msgstr ""
+
+#: ../functions.php:776
+msgid "Override featured image with a video. Enter video URL (MP4)."
+msgstr ""
+
+#: ../functions.php:781
+msgid "Override featured image with a video. Enter video URL (OGG)."
+msgstr ""
+
+#: ../functions.php:813
+msgid ""
+"Select Revolution Slider template to use one this page. This slider will be "
+"shown just bellow main navigation in full width."
+msgstr ""
+
+#: ../functions.php:916
+msgid "View page number"
+msgstr ""
+
+#: ../functions.php:927
+msgid "View earlier posts"
+msgstr ""
+
+#: ../functions.php:927
+msgid "previous posts"
+msgstr ""
+
+#: ../functions.php:928
+msgid "View newer posts"
+msgstr ""
+
+#: ../functions.php:928
+msgid "next posts"
+msgstr ""
+
+#: ../functions.php:982
+msgid "Visit us on twitter.com"
+msgstr ""
+
+#: ../functions.php:996
+msgid "Twitter unaviable"
+msgstr ""
+
+#: ../functions.php:1004
+msgid "year"
+msgstr ""
+
+#: ../functions.php:1004
+msgid "years"
+msgstr ""
+
+#: ../functions.php:1005
+msgid "month"
+msgstr ""
+
+#: ../functions.php:1005
+msgid "months"
+msgstr ""
+
+#: ../functions.php:1006
+msgid "week"
+msgstr ""
+
+#: ../functions.php:1006
+msgid "weeks"
+msgstr ""
+
+#: ../functions.php:1007
+msgid "day"
+msgstr ""
+
+#: ../functions.php:1007
+msgid "days"
+msgstr ""
+
+#: ../functions.php:1008
+msgid "hour"
+msgstr ""
+
+#: ../functions.php:1008
+msgid "hours"
+msgstr ""
+
+#: ../functions.php:1009
+msgid "minute"
+msgstr ""
+
+#: ../functions.php:1009
+msgid "minutes"
+msgstr ""
+
+#: ../functions.php:1010
+msgid "second"
+msgstr ""
+
+#: ../functions.php:1010
+msgid "seconds"
+msgstr ""
+
+#: ../functions.php:1021
+msgid "sometime"
+msgstr ""
+
+#: ../functions.php:1030
+msgid "ago"
+msgstr ""
+
+#: ../functions.php:1039
+msgid "Show your twitter feeds"
+msgstr ""
+
+#: ../functions.php:1050
+msgid "Twitter Feed"
+msgstr ""
+
+#: ../functions.php:1075 ../shortcodes.php:69 ../shortcodes.php:128
+msgid "Title"
+msgstr ""
+
+#: ../functions.php:1077
+msgid "User"
+msgstr ""
+
+#: ../functions.php:1079
+msgid "Count"
+msgstr ""
+
+#: ../functions.php:1093
+msgid "Please enter your name"
+msgstr ""
+
+#: ../functions.php:1099
+msgid "Please enter your email address"
+msgstr ""
+
+#: ../functions.php:1102
+msgid "You entered an invalid email address"
+msgstr ""
+
+#: ../functions.php:1111
+msgid "Please enter a message"
+msgstr ""
+
+#: ../functions.php:1138
+msgid "Thanks, your email was sent successfully!"
+msgstr ""
+
+#: ../functions.php:1150
+msgid "Sorry, an error occured"
+msgstr ""
+
+#: ../functions.php:1171
+msgid "EMAIL ADDRESS"
+msgstr ""
+
+#: ../functions.php:1191
+msgid "WEBSITE"
+msgstr ""
+
+#: ../functions.php:1203
+msgid "Send Email"
+msgstr ""
+
+#: ../functions.php:1483
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#: ../functions.php:1487
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: ../functions.php:1528
+msgid "Edit Menu Item"
+msgstr ""
+
+#: ../functions.php:1537
+msgid "URL"
+msgstr ""
+
+#: ../functions.php:1544
+msgid "Navigation Label"
+msgstr ""
+
+#: ../functions.php:1550
+msgid "Title Attribute"
+msgstr ""
+
+#: ../functions.php:1557
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: ../functions.php:1562
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: ../functions.php:1568
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: ../functions.php:1574
+msgid "Description"
+msgstr ""
+
+#: ../functions.php:1576
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: ../functions.php:1584
+msgid ""
+"Mega menu container<br/><small>Makes a mega menu container. Choose up to 5 "
+"columns. Add widgets by inserting sidebar or instead use plain menu items.</"
+"small>"
+msgstr ""
+
+#: ../functions.php:1590
+msgid "Columns"
+msgstr ""
+
+#: ../functions.php:1602
+msgid "Sidebar"
+msgstr ""
+
+#: ../functions.php:1628
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: ../functions.php:1641
+msgid "Remove"
+msgstr ""
+
+#: ../functions.php:1642
+msgid "Cancel"
+msgstr ""
+
+#: ../gallery-template.php:40 ../header.php:160 ../header.php:180
+#: ../header.php:196
+msgid "Your browser does not support the video tag."
+msgstr ""
+
+#: ../header.php:75
+msgid "CHAPTERS"
+msgstr ""
+
+#: ../page.php:16 ../smallteam-template.php:59 ../team-template.php:58
+msgid "No posts"
+msgstr ""
+
+#: ../shortcodes.php:14
+msgid "All"
+msgstr ""
+
+#: ../shortcodes.php:33
+msgid "Tabs"
+msgstr ""
+
+#: ../shortcodes.php:39
+msgid "Tab elements"
+msgstr ""
+
+#: ../shortcodes.php:40 ../shortcodes.php:99
+msgid "Elements are sortable"
+msgstr ""
+
+#: ../shortcodes.php:41 ../shortcodes.php:100
+msgid "tab item"
+msgstr ""
+
+#: ../shortcodes.php:73 ../shortcodes.php:132
+msgid "Content"
+msgstr ""
+
+#: ../shortcodes.php:77 ../shortcodes.php:136
+msgid "Active"
+msgstr ""
+
+#: ../shortcodes.php:78 ../shortcodes.php:137
+msgid ""
+"Only one panel can be active at a time, so be sure to uncheck the others for "
+"it to work properly"
+msgstr ""
+
+#: ../shortcodes.php:84 ../shortcodes.php:143 ../shortcodes.php:170
+#: ../shortcodes.php:233 ../shortcodes.php:255 ../shortcodes.php:297
+msgid "Bottom margin"
+msgstr ""
+
+#: ../shortcodes.php:92
+msgid "Accordion"
+msgstr ""
+
+#: ../shortcodes.php:98
+msgid "Accordion elements"
+msgstr ""
+
+#: ../shortcodes.php:151
+msgid "Progress Bar"
+msgstr ""
+
+#: ../shortcodes.php:157
+msgid "Title Text"
+msgstr ""
+
+#: ../shortcodes.php:162
+msgid "Hom much?"
+msgstr ""
+
+#: ../shortcodes.php:178
+msgid "Slider"
+msgstr ""
+
+#: ../shortcodes.php:184
+msgid "Number of posts"
+msgstr ""
+
+#: ../shortcodes.php:192
+msgid "Select categories. Use CTRL+Click to select multiple categories."
+msgstr ""
+
+#: ../shortcodes.php:201
+msgid "Excerpt lenght"
+msgstr ""
+
+#: ../shortcodes.php:208
+msgid "Sort Posts By"
+msgstr ""
+
+#: ../shortcodes.php:211
+msgid "By comment count"
+msgstr ""
+
+#: ../shortcodes.php:212
+msgid "By date"
+msgstr ""
+
+#: ../shortcodes.php:213
+msgid "By Title"
+msgstr ""
+
+#: ../shortcodes.php:214
+msgid "Random"
+msgstr ""
+
+#: ../shortcodes.php:219
+msgid "Ascendic / Descendic"
+msgstr ""
+
+#: ../shortcodes.php:222
+msgid "Ascendic"
+msgstr ""
+
+#: ../shortcodes.php:223
+msgid "Descendic"
+msgstr ""
+
+#: ../shortcodes.php:229
+msgid ""
+"Ignore Sticky Posts <br/><small> Please note that sticky posts are available "
+"when displaying All categories (All categories ID / -1).</small>"
+msgstr ""
+
+#: ../shortcodes.php:241
+msgid "Contact Form"
+msgstr ""
+
+#: ../shortcodes.php:247
+msgid "Select contact options. Use CTRL+Click to select more than one option."
+msgstr ""
+
+#: ../shortcodes.php:278
+msgid "No sliders set."
+msgstr ""
+
+#: ../shortcodes.php:284
+msgid "Revolution Slider"
+msgstr ""
+
+#: ../shortcodes.php:290
+msgid "Select slider"
+msgstr ""
+
+#: ../shortcodes.php:473
+msgid "View Project &rarr;"
+msgstr ""
+
+#: ../single.php:28 ../single.php:61
+msgid "Tags"
+msgstr ""
+
+#: ../single.php:45
+msgid "View more"
+msgstr ""
+
+#: ../single.php:48
+msgid "Next page &gt;"
+msgstr ""
+
+#: ../single.php:49
+msgid "&lt; Previous page"
+msgstr ""
+
+#: ../admin/classes/class.options_machine.php:396
+msgid "Add New Link"
+msgstr ""
+
+#: ../admin/classes/class.options_machine.php:527
+msgid "Last Backup : "
+msgstr ""
+
+#: ../admin/classes/class.options_machine.php:649
+#: ../admin/classes/class.options_machine.php:657
+#: ../admin/classes/class.options_machine.php:665
+#: ../admin/classes/class.options_machine.php:673
+#: ../admin/classes/class.options_machine.php:681
+msgid "ACTIVE"
+msgstr ""
+
+#: ../admin/classes/class.options_machine.php:653
+#: ../admin/classes/class.options_machine.php:661
+#: ../admin/classes/class.options_machine.php:669
+#: ../admin/classes/class.options_machine.php:677
+#: ../admin/classes/class.options_machine.php:685
+msgid "NOT ACTIVE"
+msgstr ""
+
+#: ../admin/classes/class.options_machine.php:690
+msgid ""
+"Your plugins are not properly installed or activated. Click the Install and "
+"Activate Plugins button to install all the plugins needed for PortalWP demo "
+"installation."
+msgstr ""
+
+#: ../admin/classes/class.options_machine.php:690
+msgid "Install and Activate Plugins"
+msgstr ""
+
+#: ../admin/classes/class.options_machine.php:693
+#: ../admin/classes/class.options_machine.php:719
+msgid "This step has been successfully completed!"
+msgstr ""
+
+#: ../admin/classes/class.options_machine.php:693
+#: ../admin/classes/class.options_machine.php:719
+#: ../admin/classes/class.options_machine.php:731
+msgid "OK"
+msgstr ""
+
+#: ../admin/classes/class.options_machine.php:716
+msgid ""
+"You have not imported all the images needed for the demo. Click the Import "
+"Images XML button to import the images XML file (this file can be found in "
+"the PortalWP full archive in the /demo/ folder."
+msgstr ""
+
+#: ../admin/classes/class.options_machine.php:716
+msgid "Import Images XML"
+msgstr ""
+
+#: ../admin/classes/class.options_machine.php:727
+msgid ""
+"Make sure you have completed previous steps before clicking the Install Demo "
+"Content button."
+msgstr ""
+
+#: ../admin/classes/class.options_machine.php:728
+msgid "Install Demo Content"
+msgstr ""
+
+#: ../admin/classes/class.options_machine.php:731
+msgid "Your Demo Content has ben successfully installed!"
+msgstr ""
+
+#: ../admin/classes/class.options_machine.php:780
+msgid "Upload"
+msgstr ""
+
+#: ../admin/classes/class.options_machine.php:1009
+msgid "Team Member"
+msgstr ""
+
+#: ../admin/classes/class.options_machine.php:1068
+msgid "Add Network"
+msgstr ""
+
+#: ../admin/front-end/options.php:26
+msgid "Expand"
+msgstr ""
+
+#: ../admin/front-end/options.php:30 ../admin/front-end/options.php:46
+msgid "Save All Changes"
+msgstr ""
+
+#: ../admin/front-end/options.php:47
+msgid "Options Reset"
+msgstr ""
+
+#: ../admin/functions/functions.admin.php:43
+msgid "Welcome to PortalWP Theme"
+msgstr ""
+
+#: ../admin/functions/functions.admin.php:43
+msgid "Please install required plugins for this theme!"
+msgstr ""
+
+#: ../admin/functions/functions.admin.php:43
+msgid "CLICK HERE"
+msgstr ""
+
+#: ../admin/functions/functions.mediauploader.php:20
+msgid "Options"
+msgstr ""
+
+#: ../admin/functions/functions.mediauploader.php:210
+msgid "Gallery"
+msgstr ""
+
+#: ../admin/functions/functions.mediauploader.php:210
+msgid "Previously Uploaded"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:29
+msgid "Subscribers"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:30
+msgid "Months Running"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:31
+msgid "Years Running"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:32
+msgid "Authors"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:35
+msgid "Days Running"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:36
+msgid "Articles"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:52
+#: ../admin/functions/functions.options.php:55
+msgid "General Settings"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:58
+msgid "Welcome to the Theme Options"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:59
+msgid ""
+"Use this Theme Options page to setup your site. Save your option once you "
+"customize your portal Theme."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:63
+msgid "Upload logo"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:64
+msgid ""
+"Upload your logo using the native media uploader, or define the URL directly."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:70
+#: ../admin/functions/functions.options.php:74
+#: ../admin/functions/functions.options.php:77
+msgid "Style Settings"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:78
+msgid "Setup your portal Style. Choose menu type, colors and fonts."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:83
+msgid "Header Menu Style"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:84
+msgid "Select header menu style."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:94
+msgid "Select body font"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:95
+msgid "Selected main font is used for text on pages and posts."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:105
+msgid "Select header font"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:106
+msgid "Selected font used for post headers."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:116
+msgid "Colors"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:119
+msgid "Color Settings"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:120
+msgid ""
+"Setup the colors used with portal Theme. Achieve any style which fits your "
+"style."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:125
+msgid "Theme Color"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:126
+msgid "Select theme color. Default color code is #ef5a32."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:132
+msgid "Lighter Theme Color"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:133
+msgid "Select lighter theme color. Default color code is #f27e62."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:139
+msgid "Text Color"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:140
+msgid "Select text color. Default color code is #333333."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:147
+msgid "Headers Color"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:148
+msgid "Select headers color. Default color code is #222222."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:154
+msgid "Menu Border"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:155
+msgid "Select main menu border color. Default color code is #d9d9d9."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:161
+msgid "Pale Color"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:162
+msgid "Select pale color. Default color code is #a0a0a0."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:168
+msgid "Color White"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:169
+msgid "Select white color. Default color code is #ffffff."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:175
+msgid "Background Color White"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:176
+msgid "Select background white color. Default color code is #ffffff."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:182
+msgid "Background Color Pale"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:183
+msgid "Select background pale color. Default color code is #a0a0a0."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:189
+msgid "Background Color Default"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:190
+msgid "Select background default color. Default color code is #222222."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:196
+msgid "Border Color Default"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:197
+msgid "Select default border color. Default color code is #222222."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:203
+msgid "Border Color Pale"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:204
+msgid "Select pale border color. Default color code is #dddddd."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:210
+msgid "Page Background Color"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:211
+msgid "Select page background color. Default color code is #ffffff."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:216
+msgid "Pagination Background Color"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:217
+msgid "Select pagination background color. Default color code is #eeeeee."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:223
+#: ../admin/functions/functions.options.php:229
+msgid "Footer Background"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:224
+msgid "Select footer background color. Default color code is #222222."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:230
+msgid "Select footer background color. Default color code is #ffffff."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:236
+#: ../admin/functions/functions.options.php:242
+msgid "Layout Settings"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:239
+msgid "Layout Settings Settings"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:243
+msgid "Set your layout. Set up your default margins used in the portal Theme."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:248
+msgid "Default Bottom Margin"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:249
+msgid "Set the default bottom margin on all elements. Default 20px."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:258
+msgid "Content Width / Responsive"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:261
+msgid "Responsive Content Resolution"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:262
+msgid ""
+"Setup your responsive break points. These settings define your layout width "
+"on various screen sizes and devices."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:267
+msgid "Content Width / High Resolution"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:268
+msgid "Responsive width for high resolutions. Default value 1200px."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:276
+#: ../admin/functions/functions.options.php:295
+#: ../admin/functions/functions.options.php:320
+msgid "Column Margins"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:277
+msgid "Column margins for high resolutions. Default value 20px."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:286
+msgid "Medium Resolution"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:287
+msgid "Responsive width for medium resolutions. Default value 768px."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:296
+msgid "Column margins for medium resolutions. Default value 10px."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:304
+#: ../admin/functions/functions.options.php:329
+msgid "Hide Sidebars"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:305
+#: ../admin/functions/functions.options.php:330
+msgid "Hide sidebars after current width."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:311
+msgid "Low Resolution"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:312
+msgid "Responsive width for low resolutions. Default value 640px."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:321
+msgid "Column margins for low resolutions. Default value 5px."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:336
+msgid "Sidebar Settings"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:340
+#: ../admin/functions/functions.options.php:348
+msgid "Sidebars"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:343
+msgid "Sidebar Manager"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:344
+msgid ""
+"Create new sidebars to use in your pages and posts. Create unlimited number "
+"of sidebars and use them in Frontend Builder via Sidebar element."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:349
+msgid "Unlimited sidebars for your pages/posts."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:359
+#: ../admin/functions/functions.options.php:362
+#: ../admin/functions/functions.options.php:365
+msgid "Footer Settings"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:366
+msgid "Choose footer columns. Set up the copyright text."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:371
+msgid "Disable Footer Widget Areas"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:372
+msgid "This option will disable footer widget areas."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:377
+msgid "Footer Widget Areas"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:378
+msgid "Select number of footer widget areas."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:389
+msgid "Copyright Text"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:390
+msgid "Enter copyright text that will appear in footer."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:395
+msgid "Facebook URL"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:396
+msgid "Enter your Facebook URL e.g. http://www.facebook.com/user/"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:401
+msgid "Twitter URL"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:402
+msgid "Enter your Twitter URL e.g. http://www.twitter.com/user/"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:407
+msgid "Google+ URL"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:408
+msgid "Enter your Google+ URL e.g. http://www.googleplus.com/user/"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:413
+msgid "LinkedIn URL"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:414
+msgid "Enter your LinkedIn URL e.g. http://www.linkedin.com/user/"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:419
+msgid "Pinterest URL"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:420
+msgid "Enter your Pinterest URL e.g. http://www.pinterest.com/user/"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:425
+msgid "Youtube URL"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:426
+msgid "Enter your Youtube URL e.g. http://www.youtube.com/user/"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:431
+#: ../admin/functions/functions.options.php:448
+#: ../admin/functions/functions.options.php:451
+msgid "Contact Settings"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:434
+#: ../admin/functions/functions.options.php:437
+#: ../admin/functions/functions.options.php:442
+msgid "Contact Form Custom Message"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:438
+msgid ""
+"Set your Contact Form custom message. This message will appear once the E-"
+"Mail is sent."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:443
+msgid "Enter cutom HTML/Text."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:452
+msgid "Setup your team members."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:456
+msgid "Contact Settings / Team Members"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:457
+msgid ""
+"Add or remove contact options/team members. You can use this entries later "
+"in your content as Team element or Contact Form element."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:478
+#: ../admin/functions/functions.options.php:482
+#: ../admin/functions/functions.options.php:485
+msgid "Twitter Settings"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:486
+msgid ""
+"Set custom Twitter API keys. Go to <a href=\"http://dev.twitter.com/\" "
+"target=\"_blank\">Twitter Developer pages</a> to get your secure keys."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:491
+msgid "Consumer Key"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:492
+msgid "Consumer key provided by dev.twitter.com"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:498
+msgid "Consumer Secret"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:499
+msgid "Consumer secret provided by dev.twitter.com"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:505
+msgid "Access token"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:506
+msgid "Access token provided by dev.twitter.com"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:512
+msgid "Access token secret"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:513
+msgid "Access token secret provided by dev.twitter.com"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:519
+#: ../admin/functions/functions.options.php:523
+#: ../admin/functions/functions.options.php:526
+msgid "Advanced Settings"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:527
+msgid "Set custom CSS classes, Google Analytics code."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:531
+msgid "Enable Comments on Pages"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:532
+msgid "If you need comments on pages please enable this switch."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:538
+msgid "Responsive / Fixed Layout"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:539
+msgid "Enable Responsive layout or use Fixed layout insted."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:546
+msgid "Service Mode"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:547
+msgid ""
+"Enable Theme Settings Bar on site. This is used for theme displays and "
+"previews. It will enable visiting user to set custom colors, widths or "
+"layouts."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:553
+msgid "Tracking Code"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:554
+msgid ""
+"Paste your Google Analytics (or other) tracking code here. This will be "
+"added into the header of your site."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:560
+msgid "Custom CSS"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:561
+msgid "Quickly add some CSS to your theme by adding it to this block."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:568
+#: ../admin/functions/functions.options.php:571
+msgid "Demo Installation"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:574
+msgid "Install PortalWP demo content"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:574
+#: ../admin/functions/functions.options.php:631
+msgid "IMPORTANT"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:575
+msgid ""
+"Demo content can only be installed on a clean Wordpress installation. If you "
+"have any posts/pages do not install demo as it will overwrite all your posts "
+"and pages. Make sure that your Wordpress version is 3.8 or newer."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:580
+msgid "Step 1"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:583
+msgid "Step 1 - Plugins"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:584
+msgid "Install and activate all the plugins used by PortalWP Theme."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:589
+msgid "Installed Plugins"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:590
+msgid ""
+"This list shows needed plugins. Please install and activate all the plugins "
+"before you continue with the demo installation."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:596
+msgid "Step 2"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:599
+msgid "Step 2 - Images"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:600
+msgid "Download images used in the demo content."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:605
+msgid "Download Images"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:606
+msgid ""
+"If you cannot see all of the images on left then your installation has "
+"failed due to an error caused by max_execution_time of your server. Either "
+"contact your service provider or try uploading the file again and again "
+"until you can see all the images."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:612
+msgid "Step 3"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:615
+msgid "Step 3 - Demo Content"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:616
+msgid ""
+"One click demo installation. Please make sure you have completed the "
+"previous two steps!"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:621
+msgid "Demo Content"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:622
+msgid ""
+"Click the Install Demo Content button to make your site look just like our "
+"PortalWP Demo"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:622
+msgid "LINK"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:628
+msgid "Remove Demo"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:631
+msgid "Notice"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:632
+msgid ""
+"If you do not want to use the Demo Content and you wish this option to be "
+"removed from the PortalWP Theme options panel click the Remove Demo Tab "
+"button."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:632
+msgid "Remove Demo Tab"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:639
+msgid "Backup Options"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:642
+msgid "\"Backup and Restore Options\""
+msgstr ""
+
+#: ../admin/functions/functions.options.php:646
+msgid ""
+"You can use the two buttons below to backup your current options, and then "
+"restore it back at a later time. This is useful if you want to experiment on "
+"the options but would like to keep the old settings in case you need it back."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:649
+msgid "Transfer Theme Options Data"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:653
+msgid ""
+"You can tranfer the saved options data between different installs by copying "
+"the text inside the text box. To import data from another install, replace "
+"the data in the text box with the one from another install and click "
+"\"Import Options\"."
+msgstr ""
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:167
+msgid "Something went wrong."
+msgstr ""
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:180
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:517
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:2058
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:545
+#, php-format
+msgid "The following plugin was activated successfully: %s."
+msgstr ""
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:704
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1091
+msgid "External Link"
+msgstr ""
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1096
+msgid "Private Repository"
+msgstr ""
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1099
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1103
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1106
+msgid "Required"
+msgstr ""
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1106
+msgid "Recommended"
+msgstr ""
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1109
+msgid "Not Installed"
+msgstr ""
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1111
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1281
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1297
+msgid "Plugin"
+msgstr ""
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1298
+msgid "Source"
+msgstr ""
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1299
+msgid "Type"
+msgstr ""
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1300
+msgid "Status"
+msgstr ""
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1318
+msgid "Install"
+msgstr ""
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1319
+msgid "Activate"
+msgstr ""
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1544
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1829
+msgid "Install package not available."
+msgstr ""
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1830
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1831
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1832
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1833
+msgid "Plugin install failed."
+msgstr ""
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1834
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1845
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1955
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1956
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1956
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1965
+msgid "Show Details"
+msgstr ""
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1956
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1965
+msgid "Hide Details"
+msgstr ""
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1957
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1962
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1963
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1964
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1965
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1966
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../lib/tgm-plugin-activation/class-tgm-plugin-activation.php:1967
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""

@@ -1,0 +1,38 @@
+===================
+!!!! IMPORTANT !!!!
+===================
+
+
+Please keep your PortalWP Theme and Frontend Builder Plugin up to date. This is very important as Portal with the Frontend Builder is a very powerfull system. We're doing everything we can to make it perfect, but we cannot foreseen all the issues and bugs associated with it. So, keep your system always on the latest version, read this file for instructions and help, and everytime you experience a bug or a flaw in it please contact us to report it @ support.shindiristudio.com or @ support@shindiristudio.com
+
+Thank you!
+
+- Shindiri Studio & Mihajlovicnenad.com
+
+
+===================
+!!!!! UPDATES !!!!!
+===================
+
+//// UPDATE January 25th, 2014
+
+Spanish translation added.
+
+
+//// UPDATE January 23th, 2014
+One click demo content installation added.
+Few bugs fixed along the way.
+
+
+//// UPDATE January 15th, 2014
+
+We had to change the name of the theme to PoratlWP *not Portal. Portal is a free theme from wordpress.org and some bugs related to the Wordpress theme automatic updates were caused by the same name. When you update your theme, you will probably lose the Theme Options settings, but please activate it once again in Appearance>Themes and set your options once again. If you want your already setup options back and don't know how to achieve this in the WP database (wp_options>portal_options is now wp_options>portalWP_option) please contact us @ support.shindiristudio.com or via email @ support@shindiristudio.com and we'll help you. For emergency calls you can contact us also via Skype username: dzerihobot
+
+- Scroll and parallax effects are improved ( 3xfaster )
+- Bugs with the older Apple devices are now fixed
+- Responsive menu issues are fixed
+
+
+//// January 13th, 2014
+
+Portal Theme was born
